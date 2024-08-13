@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PhamHoDangHuy_2001215828_Buoi1/1.0.0": {
+        "runtime": {
+          "PhamHoDangHuy_2001215828_Buoi1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PhamHoDangHuy_2001215828_Buoi1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

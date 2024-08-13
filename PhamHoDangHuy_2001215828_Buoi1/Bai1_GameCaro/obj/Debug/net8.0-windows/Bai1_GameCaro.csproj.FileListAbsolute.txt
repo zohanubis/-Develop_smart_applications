@@ -1,0 +1,16 @@
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai1_GameCaro\bin\Debug\net8.0-windows\Bai1_GameCaro.exe
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai1_GameCaro\bin\Debug\net8.0-windows\Bai1_GameCaro.deps.json
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai1_GameCaro\bin\Debug\net8.0-windows\Bai1_GameCaro.runtimeconfig.json
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai1_GameCaro\bin\Debug\net8.0-windows\Bai1_GameCaro.dll
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai1_GameCaro\bin\Debug\net8.0-windows\Bai1_GameCaro.pdb
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai1_GameCaro\obj\Debug\net8.0-windows\Bai1_GameCaro.csproj.GenerateResource.cache
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai1_GameCaro\obj\Debug\net8.0-windows\Bai1_GameCaro.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai1_GameCaro\obj\Debug\net8.0-windows\Bai1_GameCaro.AssemblyInfoInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai1_GameCaro\obj\Debug\net8.0-windows\Bai1_GameCaro.AssemblyInfo.cs
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai1_GameCaro\obj\Debug\net8.0-windows\Bai1_GameCaro.csproj.CoreCompileInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai1_GameCaro\obj\Debug\net8.0-windows\Bai1_GameCaro.dll
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai1_GameCaro\obj\Debug\net8.0-windows\refint\Bai1_GameCaro.dll
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai1_GameCaro\obj\Debug\net8.0-windows\Bai1_GameCaro.pdb
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai1_GameCaro\obj\Debug\net8.0-windows\Bai1_GameCaro.genruntimeconfig.cache
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai1_GameCaro\obj\Debug\net8.0-windows\ref\Bai1_GameCaro.dll
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai1_GameCaro\obj\Debug\net8.0-windows\Bai1_GameCaro.App.MainForm.resources
