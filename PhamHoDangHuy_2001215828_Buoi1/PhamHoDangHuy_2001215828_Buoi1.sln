@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai1_GameCaro", "Bai1_GameC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_TrucXanh", "Bai2_TrucXanh\Bai2_TrucXanh.csproj", "{1027408A-7BCC-42C2-8EA6-857DF3DAEE91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_SinhVien", "Bai3_SinhVien\Bai3_SinhVien.csproj", "{293615C1-AF71-4EA4-8304-52E7719DC25D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai3_SinhVien", "Bai3_SinhVien\Bai3_SinhVien.csproj", "{293615C1-AF71-4EA4-8304-52E7719DC25D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_ClearText", "Bai4_ClearText\Bai4_ClearText.csproj", "{0FFD013E-8591-4071-9CDA-F189789B7A47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{293615C1-AF71-4EA4-8304-52E7719DC25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{293615C1-AF71-4EA4-8304-52E7719DC25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{293615C1-AF71-4EA4-8304-52E7719DC25D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FFD013E-8591-4071-9CDA-F189789B7A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFD013E-8591-4071-9CDA-F189789B7A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFD013E-8591-4071-9CDA-F189789B7A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFD013E-8591-4071-9CDA-F189789B7A47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

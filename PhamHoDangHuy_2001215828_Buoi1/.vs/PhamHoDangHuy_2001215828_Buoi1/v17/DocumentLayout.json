@@ -3,44 +3,28 @@
   "WorkspaceRootPath": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{293615C1-AF71-4EA4-8304-52E7719DC25D}|Bai3_SinhVien\\Bai3_SinhVien.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi1\\bai3_sinhvien\\service\\personalinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{293615C1-AF71-4EA4-8304-52E7719DC25D}|Bai3_SinhVien\\Bai3_SinhVien.csproj|solutionrelative:bai3_sinhvien\\service\\personalinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1027408A-7BCC-42C2-8EA6-857DF3DAEE91}|Bai2_TrucXanh\\Bai2_TrucXanh.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi1\\bai2_trucxanh\\service\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1027408A-7BCC-42C2-8EA6-857DF3DAEE91}|Bai2_TrucXanh\\Bai2_TrucXanh.csproj|solutionrelative:bai2_trucxanh\\service\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{293615C1-AF71-4EA4-8304-52E7719DC25D}|Bai3_SinhVien\\Bai3_SinhVien.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi1\\bai3_sinhvien\\model\\personalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{293615C1-AF71-4EA4-8304-52E7719DC25D}|Bai3_SinhVien\\Bai3_SinhVien.csproj|solutionrelative:bai3_sinhvien\\model\\personalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1027408A-7BCC-42C2-8EA6-857DF3DAEE91}|Bai2_TrucXanh\\Bai2_TrucXanh.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi1\\bai2_trucxanh\\gui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1027408A-7BCC-42C2-8EA6-857DF3DAEE91}|Bai2_TrucXanh\\Bai2_TrucXanh.csproj|solutionrelative:bai2_trucxanh\\gui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{293615C1-AF71-4EA4-8304-52E7719DC25D}|Bai3_SinhVien\\Bai3_SinhVien.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi1\\bai3_sinhvien\\repository\\personalinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{293615C1-AF71-4EA4-8304-52E7719DC25D}|Bai3_SinhVien\\Bai3_SinhVien.csproj|solutionrelative:bai3_sinhvien\\repository\\personalinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1027408A-7BCC-42C2-8EA6-857DF3DAEE91}|Bai2_TrucXanh\\Bai2_TrucXanh.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi1\\bai2_trucxanh\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1027408A-7BCC-42C2-8EA6-857DF3DAEE91}|Bai2_TrucXanh\\Bai2_TrucXanh.csproj|solutionrelative:bai2_trucxanh\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{293615C1-AF71-4EA4-8304-52E7719DC25D}|Bai3_SinhVien\\Bai3_SinhVien.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi1\\bai3_sinhvien\\repository\\thongtinsv.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{293615C1-AF71-4EA4-8304-52E7719DC25D}|Bai3_SinhVien\\Bai3_SinhVien.csproj|solutionrelative:bai3_sinhvien\\repository\\thongtinsv.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{1027408A-7BCC-42C2-8EA6-857DF3DAEE91}|Bai2_TrucXanh\\Bai2_TrucXanh.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi1\\bai2_trucxanh\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1027408A-7BCC-42C2-8EA6-857DF3DAEE91}|Bai2_TrucXanh\\Bai2_TrucXanh.csproj|solutionrelative:bai2_trucxanh\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{293615C1-AF71-4EA4-8304-52E7719DC25D}|Bai3_SinhVien\\Bai3_SinhVien.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi1\\bai3_sinhvien\\gui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{293615C1-AF71-4EA4-8304-52E7719DC25D}|Bai3_SinhVien\\Bai3_SinhVien.csproj|solutionrelative:bai3_sinhvien\\gui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1027408A-7BCC-42C2-8EA6-857DF3DAEE91}|Bai2_TrucXanh\\Bai2_TrucXanh.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi1\\bai2_trucxanh\\bai2_trucxanh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1027408A-7BCC-42C2-8EA6-857DF3DAEE91}|Bai2_TrucXanh\\Bai2_TrucXanh.csproj|solutionrelative:bai2_trucxanh\\bai2_trucxanh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{293615C1-AF71-4EA4-8304-52E7719DC25D}|Bai3_SinhVien\\Bai3_SinhVien.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi1\\bai3_sinhvien\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{293615C1-AF71-4EA4-8304-52E7719DC25D}|Bai3_SinhVien\\Bai3_SinhVien.csproj|solutionrelative:bai3_sinhvien\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{293615C1-AF71-4EA4-8304-52E7719DC25D}|Bai3_SinhVien\\Bai3_SinhVien.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi1\\bai3_sinhvien\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{293615C1-AF71-4EA4-8304-52E7719DC25D}|Bai3_SinhVien\\Bai3_SinhVien.csproj|solutionrelative:bai3_sinhvien\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{293615C1-AF71-4EA4-8304-52E7719DC25D}|Bai3_SinhVien\\Bai3_SinhVien.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi1\\bai3_sinhvien\\repository\\dantoc.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{293615C1-AF71-4EA4-8304-52E7719DC25D}|Bai3_SinhVien\\Bai3_SinhVien.csproj|solutionrelative:bai3_sinhvien\\repository\\dantoc.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{293615C1-AF71-4EA4-8304-52E7719DC25D}|Bai3_SinhVien\\Bai3_SinhVien.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi1\\bai3_sinhvien\\repository\\dm_tinhthanh.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{293615C1-AF71-4EA4-8304-52E7719DC25D}|Bai3_SinhVien\\Bai3_SinhVien.csproj|solutionrelative:bai3_sinhvien\\repository\\dm_tinhthanh.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{293615C1-AF71-4EA4-8304-52E7719DC25D}|Bai3_SinhVien\\Bai3_SinhVien.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi1\\bai3_sinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{293615C1-AF71-4EA4-8304-52E7719DC25D}|Bai3_SinhVien\\Bai3_SinhVien.csproj|solutionrelative:bai3_sinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1027408A-7BCC-42C2-8EA6-857DF3DAEE91}|Bai2_TrucXanh\\Bai2_TrucXanh.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi1\\bai2_trucxanh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1027408A-7BCC-42C2-8EA6-857DF3DAEE91}|Bai2_TrucXanh\\Bai2_TrucXanh.csproj|solutionrelative:bai2_trucxanh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,139 +34,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai3_SinhVien\\GUI\\MainForm.Designer.cs",
-              "RelativeDocumentMoniker": "Bai3_SinhVien\\GUI\\MainForm.Designer.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai3_SinhVien\\GUI\\MainForm.Designer.cs",
-              "RelativeToolTip": "Bai3_SinhVien\\GUI\\MainForm.Designer.cs",
-              "ViewState": "AQIAAKsAAAAAAAAAAAAqwNgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T09:50:17.753Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PersonalInfoService.cs",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai3_SinhVien\\Service\\PersonalInfoService.cs",
-              "RelativeDocumentMoniker": "Bai3_SinhVien\\Service\\PersonalInfoService.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai3_SinhVien\\Service\\PersonalInfoService.cs",
-              "RelativeToolTip": "Bai3_SinhVien\\Service\\PersonalInfoService.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAqwEoAAAAAAAAA",
+              "Title": "GameService.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai2_TrucXanh\\Service\\GameService.cs",
+              "RelativeDocumentMoniker": "Bai2_TrucXanh\\Service\\GameService.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai2_TrucXanh\\Service\\GameService.cs",
+              "RelativeToolTip": "Bai2_TrucXanh\\Service\\GameService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAuwDAAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T09:49:46.966Z",
+              "WhenOpened": "2024-08-16T11:00:09.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PersonalInfoRepository.cs",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai3_SinhVien\\Repository\\PersonalInfoRepository.cs",
-              "RelativeDocumentMoniker": "Bai3_SinhVien\\Repository\\PersonalInfoRepository.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai3_SinhVien\\Repository\\PersonalInfoRepository.cs",
-              "RelativeToolTip": "Bai3_SinhVien\\Repository\\PersonalInfoRepository.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAuwCkAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T09:48:59.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai3_SinhVien\\GUI\\MainForm.cs",
-              "RelativeDocumentMoniker": "Bai3_SinhVien\\GUI\\MainForm.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai3_SinhVien\\GUI\\MainForm.cs [Design]",
-              "RelativeToolTip": "Bai3_SinhVien\\GUI\\MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T09:47:21.552Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai3_SinhVien\\GUI\\MainForm.cs",
-              "RelativeDocumentMoniker": "Bai3_SinhVien\\GUI\\MainForm.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai3_SinhVien\\GUI\\MainForm.cs",
-              "RelativeToolTip": "Bai3_SinhVien\\GUI\\MainForm.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAIA4wB4AAAAxAAAA",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai2_TrucXanh\\GUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "Bai2_TrucXanh\\GUI\\MainForm.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai2_TrucXanh\\GUI\\MainForm.cs",
+              "RelativeToolTip": "Bai2_TrucXanh\\GUI\\MainForm.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBMAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T09:47:45.279Z",
+              "WhenOpened": "2024-08-16T10:59:40.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PersonalInfo.cs",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai3_SinhVien\\Model\\PersonalInfo.cs",
-              "RelativeDocumentMoniker": "Bai3_SinhVien\\Model\\PersonalInfo.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai3_SinhVien\\Model\\PersonalInfo.cs",
-              "RelativeToolTip": "Bai3_SinhVien\\Model\\PersonalInfo.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwA0AAAAtAAAA",
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai2_TrucXanh\\GUI\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Bai2_TrucXanh\\GUI\\MainForm.Designer.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai2_TrucXanh\\GUI\\MainForm.Designer.cs",
+              "RelativeToolTip": "Bai2_TrucXanh\\GUI\\MainForm.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAQAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T09:48:23.034Z",
+              "WhenOpened": "2024-08-16T10:59:34.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ThongTinSV.txt",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai3_SinhVien\\Repository\\ThongTinSV.txt",
-              "RelativeDocumentMoniker": "Bai3_SinhVien\\Repository\\ThongTinSV.txt",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai3_SinhVien\\Repository\\ThongTinSV.txt",
-              "RelativeToolTip": "Bai3_SinhVien\\Repository\\ThongTinSV.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-08-16T10:02:55.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DM_TinhThanh.txt",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai3_SinhVien\\Repository\\DM_TinhThanh.txt",
-              "RelativeDocumentMoniker": "Bai3_SinhVien\\Repository\\DM_TinhThanh.txt",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai3_SinhVien\\Repository\\DM_TinhThanh.txt",
-              "RelativeToolTip": "Bai3_SinhVien\\Repository\\DM_TinhThanh.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-08-16T09:58:59.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DanToc.txt",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai3_SinhVien\\Repository\\DanToc.txt",
-              "RelativeDocumentMoniker": "Bai3_SinhVien\\Repository\\DanToc.txt",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai3_SinhVien\\Repository\\DanToc.txt",
-              "RelativeToolTip": "Bai3_SinhVien\\Repository\\DanToc.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-08-16T10:17:41.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai3_SinhVien\\Program.cs",
-              "RelativeDocumentMoniker": "Bai3_SinhVien\\Program.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai3_SinhVien\\Program.cs",
-              "RelativeToolTip": "Bai3_SinhVien\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAhwBIAAAABAAAA",
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai2_TrucXanh\\GUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "Bai2_TrucXanh\\GUI\\MainForm.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai2_TrucXanh\\GUI\\MainForm.cs [Design]",
+              "RelativeToolTip": "Bai2_TrucXanh\\GUI\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T09:47:26.271Z",
+              "WhenOpened": "2024-08-16T10:59:30.075Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai2_TrucXanh",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai2_TrucXanh\\Bai2_TrucXanh.csproj",
+              "RelativeDocumentMoniker": "Bai2_TrucXanh\\Bai2_TrucXanh.csproj",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai2_TrucXanh\\Bai2_TrucXanh.csproj",
+              "RelativeToolTip": "Bai2_TrucXanh\\Bai2_TrucXanh.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-16T10:57:30.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai2_TrucXanh\\Program.cs",
+              "RelativeDocumentMoniker": "Bai2_TrucXanh\\Program.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai2_TrucXanh\\Program.cs",
+              "RelativeToolTip": "Bai2_TrucXanh\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAMwA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T10:58:40.592Z",
               "EditorCaption": ""
             }
           ]

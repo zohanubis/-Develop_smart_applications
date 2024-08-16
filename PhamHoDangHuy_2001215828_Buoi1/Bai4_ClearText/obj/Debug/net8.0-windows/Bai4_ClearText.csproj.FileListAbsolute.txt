@@ -1,0 +1,17 @@
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai4_ClearText\obj\Debug\net8.0-windows\Bai4_ClearText.GUI.MainForm.resources
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai4_ClearText\obj\Debug\net8.0-windows\Bai4_ClearText.csproj.GenerateResource.cache
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai4_ClearText\obj\Debug\net8.0-windows\Bai4_ClearText.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai4_ClearText\obj\Debug\net8.0-windows\Bai4_ClearText.AssemblyInfoInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai4_ClearText\obj\Debug\net8.0-windows\Bai4_ClearText.AssemblyInfo.cs
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai4_ClearText\obj\Debug\net8.0-windows\Bai4_ClearText.csproj.CoreCompileInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai4_ClearText\obj\Debug\net8.0-windows\Bai4_ClearText.sourcelink.json
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai4_ClearText\bin\Debug\net8.0-windows\Bai4_ClearText.exe
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai4_ClearText\bin\Debug\net8.0-windows\Bai4_ClearText.deps.json
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai4_ClearText\bin\Debug\net8.0-windows\Bai4_ClearText.runtimeconfig.json
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai4_ClearText\bin\Debug\net8.0-windows\Bai4_ClearText.dll
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai4_ClearText\bin\Debug\net8.0-windows\Bai4_ClearText.pdb
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai4_ClearText\obj\Debug\net8.0-windows\Bai4_ClearText.dll
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai4_ClearText\obj\Debug\net8.0-windows\refint\Bai4_ClearText.dll
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai4_ClearText\obj\Debug\net8.0-windows\Bai4_ClearText.pdb
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai4_ClearText\obj\Debug\net8.0-windows\Bai4_ClearText.genruntimeconfig.cache
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi1\Bai4_ClearText\obj\Debug\net8.0-windows\ref\Bai4_ClearText.dll

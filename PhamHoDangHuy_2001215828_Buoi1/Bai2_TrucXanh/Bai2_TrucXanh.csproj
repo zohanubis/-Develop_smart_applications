@@ -8,4 +8,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Images\theweeknd1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\theweeknd1.png" />
+  </ItemGroup>
+
 </Project>
