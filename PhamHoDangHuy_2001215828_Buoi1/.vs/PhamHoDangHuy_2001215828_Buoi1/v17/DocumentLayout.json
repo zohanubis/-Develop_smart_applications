@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{1027408A-7BCC-42C2-8EA6-857DF3DAEE91}|Bai2_TrucXanh\\Bai2_TrucXanh.csproj|solutionrelative:bai2_trucxanh\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1027408A-7BCC-42C2-8EA6-857DF3DAEE91}|Bai2_TrucXanh\\Bai2_TrucXanh.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi1\\bai2_trucxanh\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1027408A-7BCC-42C2-8EA6-857DF3DAEE91}|Bai2_TrucXanh\\Bai2_TrucXanh.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\bai2_trucxanh\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1027408A-7BCC-42C2-8EA6-857DF3DAEE91}|Bai2_TrucXanh\\Bai2_TrucXanh.csproj|solutionrelative:bai2_trucxanh\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Bai2_TrucXanh\\Service\\GameService.cs",
               "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai2_TrucXanh\\Service\\GameService.cs",
               "RelativeToolTip": "Bai2_TrucXanh\\Service\\GameService.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAuwDAAAAA6AAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAswEEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T11:00:09.62Z",
               "EditorCaption": ""
@@ -72,8 +72,7 @@
               "RelativeToolTip": "Bai2_TrucXanh\\GUI\\MainForm.Designer.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAQwAQAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T10:59:34.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T10:59:34.483Z"
             },
             {
               "$type": "Document",
@@ -84,21 +83,19 @@
               "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai2_TrucXanh\\GUI\\MainForm.cs [Design]",
               "RelativeToolTip": "Bai2_TrucXanh\\GUI\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T10:59:30.075Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-08-16T10:59:30.075Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Bai2_TrucXanh",
+              "Title": "Bai2_TrucXanh.csproj",
               "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai2_TrucXanh\\Bai2_TrucXanh.csproj",
               "RelativeDocumentMoniker": "Bai2_TrucXanh\\Bai2_TrucXanh.csproj",
               "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi1\\Bai2_TrucXanh\\Bai2_TrucXanh.csproj",
               "RelativeToolTip": "Bai2_TrucXanh\\Bai2_TrucXanh.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-16T10:57:30.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T10:57:30.383Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "Bai2_TrucXanh\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAMwA8AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T10:58:40.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T10:58:40.592Z"
             }
           ]
         }

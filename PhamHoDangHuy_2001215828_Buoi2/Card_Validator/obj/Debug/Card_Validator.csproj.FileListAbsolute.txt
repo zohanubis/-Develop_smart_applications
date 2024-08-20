@@ -1,0 +1,4 @@
+E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\Card_Validator\bin\Debug\Card_Validator.dll
+E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\Card_Validator\bin\Debug\Card_Validator.pdb
+E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\Card_Validator\obj\Debug\Card_Validator.dll
+E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\Card_Validator\obj\Debug\Card_Validator.pdb

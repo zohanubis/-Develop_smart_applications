@@ -47,7 +47,8 @@ namespace Bai2_TrucXanh.Service
                     Width = imageSize,
                     Height = imageSize,
                     BorderStyle = BorderStyle.FixedSingle,
-                    Image = LoadImage("theweeknd1.png") // Use the actual image file name
+                    Image = LoadImage("theweeknd1.png"),
+                    SizeMode = PictureBoxSizeMode.StretchImage
                 };
 
                 // Calculate row and column based on index
@@ -61,12 +62,12 @@ namespace Bai2_TrucXanh.Service
                 panelGrid.Controls.Add(pictureBox);
             }
 
-            panelGrid.ResumeLayout(); // Resume layout logic after bulk updates
+            panelGrid.ResumeLayout(); 
         }
 
         public static void StartGame()
         {
-            // Logic to start the game
+
         }
     }
 }
