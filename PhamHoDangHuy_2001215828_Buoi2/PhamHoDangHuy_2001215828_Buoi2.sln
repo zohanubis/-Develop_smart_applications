@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhamHoDangHuy_2001215828_Buoi2", "PhamHoDangHuy_2001215828_Buoi2\PhamHoDangHuy_2001215828_Buoi2.csproj", "{6DA5DD19-3282-4EA4-BB62-3441CCC26DE5}"
 EndProject
@@ -24,6 +24,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoverButton", "HoverButton\HoverButton.csproj", "{CE751952-3DC9-4D28-91E6-8CC7B02C309C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLClass", "SQLClass\SQLClass.csproj", "{40AE1F61-83E9-4855-859D-7FCC0C435C3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginControl", "LoginControl\LoginControl.csproj", "{D00BDE4F-664B-4171-B0A8-70E19A07DFD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,8 +77,15 @@ Global
 		{40AE1F61-83E9-4855-859D-7FCC0C435C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40AE1F61-83E9-4855-859D-7FCC0C435C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40AE1F61-83E9-4855-859D-7FCC0C435C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D00BDE4F-664B-4171-B0A8-70E19A07DFD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00BDE4F-664B-4171-B0A8-70E19A07DFD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00BDE4F-664B-4171-B0A8-70E19A07DFD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00BDE4F-664B-4171-B0A8-70E19A07DFD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BACBD171-7135-448B-BD01-AE5A3A634AC3}
 	EndGlobalSection
 EndGlobal

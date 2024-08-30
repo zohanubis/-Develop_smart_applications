@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LoginControl/1.0.0": {
+        "dependencies": {
+          "SQLClass": "1.0.0"
+        },
+        "runtime": {
+          "LoginControl.dll": {}
+        }
+      },
+      "SQLClass/1.0.0": {
+        "runtime": {
+          "SQLClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoginControl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SQLClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
