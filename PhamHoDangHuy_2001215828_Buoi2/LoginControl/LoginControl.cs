@@ -17,6 +17,10 @@ namespace LoginControl
     public partial class LoginControl : UserControl
     {
         private SqlHelper sqlHelper = new SqlHelper();
+        private String _cnn;
+
+        public string Cnn { get => _cnn; set => _cnn = value; }
+
         public LoginControl()
         {
             InitializeComponent();
@@ -31,7 +35,7 @@ namespace LoginControl
             if (ValidateLogin(username, password))
             {
                 MessageBox.Show("Đăng nhập thành công!");
-               
+
             }
             else
             {
@@ -49,6 +53,11 @@ namespace LoginControl
 
             object result = sqlHelper.ExecuteScalarWithParameters(query, parameters);
             return Convert.ToInt32(result) > 0;
+        }
+
+        private void LoginControl_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

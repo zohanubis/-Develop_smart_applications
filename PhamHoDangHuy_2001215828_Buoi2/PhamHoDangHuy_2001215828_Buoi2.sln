@@ -25,7 +25,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoverButton", "HoverButton\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLClass", "SQLClass\SQLClass.csproj", "{40AE1F61-83E9-4855-859D-7FCC0C435C3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginControl", "LoginControl\LoginControl.csproj", "{D00BDE4F-664B-4171-B0A8-70E19A07DFD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginControl", "LoginControl\LoginControl.csproj", "{D00BDE4F-664B-4171-B0A8-70E19A07DFD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainForm", "MainForm\MainForm.csproj", "{318BADA4-0364-4862-A1A0-155397EE9E0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentInfoControl", "StudentInfoControl\StudentInfoControl.csproj", "{697DA880-9045-4D6D-B6B2-B5B1ABB14899}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{D00BDE4F-664B-4171-B0A8-70E19A07DFD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D00BDE4F-664B-4171-B0A8-70E19A07DFD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D00BDE4F-664B-4171-B0A8-70E19A07DFD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{318BADA4-0364-4862-A1A0-155397EE9E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318BADA4-0364-4862-A1A0-155397EE9E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{318BADA4-0364-4862-A1A0-155397EE9E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318BADA4-0364-4862-A1A0-155397EE9E0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{697DA880-9045-4D6D-B6B2-B5B1ABB14899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697DA880-9045-4D6D-B6B2-B5B1ABB14899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697DA880-9045-4D6D-B6B2-B5B1ABB14899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697DA880-9045-4D6D-B6B2-B5B1ABB14899}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

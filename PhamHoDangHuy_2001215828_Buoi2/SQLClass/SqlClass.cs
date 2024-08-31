@@ -190,5 +190,24 @@ namespace SqlClass
             }
             return dataTable;
         }
+        // Hàm ExecuteReader để thực thi câu truy vấn và trả về SqlDataReader
+        public SqlDataReader ExecuteReader(string pQuery)
+        {
+            SqlDataReader reader = null;
+            try
+            {
+                using (SqlCommand command = new SqlCommand(pQuery, _connection))
+                {
+                    _connection.Open();
+                    reader = command.ExecuteReader(CommandBehavior.CloseConnection);
+                }
+            }
+            catch (Exception ex)
+            {
+                // Xử lý ngoại lệ nếu cần
+                throw new Exception("Error executing reader: " + ex.Message);
+            }
+            return reader;
+        }
     }
 }

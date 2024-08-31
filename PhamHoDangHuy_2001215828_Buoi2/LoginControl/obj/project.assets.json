@@ -146,15 +146,6 @@
             "rid": "win"
           }
         }
-      },
-      "SQLClass/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/SQLClass.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SQLClass.dll": {}
-        }
       }
     }
   },
@@ -471,16 +462,10 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "SQLClass/1.0.0": {
-      "type": "project",
-      "path": "../SQLClass/SQLClass.csproj",
-      "msbuildProject": "../SQLClass/SQLClass.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
-      "SQLClass >= 1.0.0",
       "System.Data.SqlClient >= 4.8.6"
     ]
   },
@@ -516,11 +501,7 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "projectReferences": {
-            "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\SQLClass\\SQLClass.csproj": {
-              "projectPath": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\SQLClass\\SQLClass.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

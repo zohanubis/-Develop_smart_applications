@@ -7,11 +7,7 @@
       "RelativeMoniker": "D:0:0:{D00BDE4F-664B-4171-B0A8-70E19A07DFD6}|LoginControl\\LoginControl.csproj|solutionrelative:logincontrol\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D00BDE4F-664B-4171-B0A8-70E19A07DFD6}|LoginControl\\LoginControl.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi2\\logincontrol\\obj\\debug\\net8.0-windows\\logincontrol.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D00BDE4F-664B-4171-B0A8-70E19A07DFD6}|LoginControl\\LoginControl.csproj|solutionrelative:logincontrol\\obj\\debug\\net8.0-windows\\logincontrol.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D00BDE4F-664B-4171-B0A8-70E19A07DFD6}|LoginControl\\LoginControl.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi2\\logincontrol\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D00BDE4F-664B-4171-B0A8-70E19A07DFD6}|LoginControl\\LoginControl.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\logincontrol\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D00BDE4F-664B-4171-B0A8-70E19A07DFD6}|LoginControl\\LoginControl.csproj|solutionrelative:logincontrol\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -19,19 +15,67 @@
       "RelativeMoniker": "D:0:0:{D00BDE4F-664B-4171-B0A8-70E19A07DFD6}|LoginControl\\LoginControl.csproj|solutionrelative:logincontrol\\logincontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D00BDE4F-664B-4171-B0A8-70E19A07DFD6}|LoginControl\\LoginControl.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi2\\logincontrol\\logincontrol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D00BDE4F-664B-4171-B0A8-70E19A07DFD6}|LoginControl\\LoginControl.csproj|solutionrelative:logincontrol\\logincontrol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318BADA4-0364-4862-A1A0-155397EE9E0A}|MainForm\\MainForm.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi2\\mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318BADA4-0364-4862-A1A0-155397EE9E0A}|MainForm\\MainForm.csproj|solutionrelative:mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318BADA4-0364-4862-A1A0-155397EE9E0A}|MainForm\\MainForm.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi2\\mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{318BADA4-0364-4862-A1A0-155397EE9E0A}|MainForm\\MainForm.csproj|solutionrelative:mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318BADA4-0364-4862-A1A0-155397EE9E0A}|MainForm\\MainForm.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi2\\mainform\\mainform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{318BADA4-0364-4862-A1A0-155397EE9E0A}|MainForm\\MainForm.csproj|solutionrelative:mainform\\mainform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697DA880-9045-4D6D-B6B2-B5B1ABB14899}|StudentInfoControl\\StudentInfoControl.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi2\\studentinfocontrol\\studentinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697DA880-9045-4D6D-B6B2-B5B1ABB14899}|StudentInfoControl\\StudentInfoControl.csproj|solutionrelative:studentinfocontrol\\studentinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40AE1F61-83E9-4855-859D-7FCC0C435C3D}|SQLClass\\SQLClass.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\sqlclass\\sqlclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40AE1F61-83E9-4855-859D-7FCC0C435C3D}|SQLClass\\SQLClass.csproj|solutionrelative:sqlclass\\sqlclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697DA880-9045-4D6D-B6B2-B5B1ABB14899}|StudentInfoControl\\StudentInfoControl.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi2\\studentinfocontrol\\studentinfocontrol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{697DA880-9045-4D6D-B6B2-B5B1ABB14899}|StudentInfoControl\\StudentInfoControl.csproj|solutionrelative:studentinfocontrol\\studentinfocontrol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697DA880-9045-4D6D-B6B2-B5B1ABB14899}|StudentInfoControl\\StudentInfoControl.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi2\\studentinfocontrol\\studentinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{697DA880-9045-4D6D-B6B2-B5B1ABB14899}|StudentInfoControl\\StudentInfoControl.csproj|solutionrelative:studentinfocontrol\\studentinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697DA880-9045-4D6D-B6B2-B5B1ABB14899}|StudentInfoControl\\StudentInfoControl.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi2\\studentinfocontrol\\studentinfocontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697DA880-9045-4D6D-B6B2-B5B1ABB14899}|StudentInfoControl\\StudentInfoControl.csproj|solutionrelative:studentinfocontrol\\studentinfocontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697DA880-9045-4D6D-B6B2-B5B1ABB14899}|StudentInfoControl\\StudentInfoControl.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi2\\studentinfocontrol\\obj\\debug\\net8.0-windows\\studentinfocontrol.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697DA880-9045-4D6D-B6B2-B5B1ABB14899}|StudentInfoControl\\StudentInfoControl.csproj|solutionrelative:studentinfocontrol\\obj\\debug\\net8.0-windows\\studentinfocontrol.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697DA880-9045-4D6D-B6B2-B5B1ABB14899}|StudentInfoControl\\StudentInfoControl.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi2\\studentinfocontrol\\studentinfocontrol.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{697DA880-9045-4D6D-B6B2-B5B1ABB14899}|StudentInfoControl\\StudentInfoControl.csproj|solutionrelative:studentinfocontrol\\studentinfocontrol.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318BADA4-0364-4862-A1A0-155397EE9E0A}|MainForm\\MainForm.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi2\\mainform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318BADA4-0364-4862-A1A0-155397EE9E0A}|MainForm\\MainForm.csproj|solutionrelative:mainform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318BADA4-0364-4862-A1A0-155397EE9E0A}|MainForm\\MainForm.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi2\\mainform\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318BADA4-0364-4862-A1A0-155397EE9E0A}|MainForm\\MainForm.csproj|solutionrelative:mainform\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DA5DD19-3282-4EA4-BB62-3441CCC26DE5}|PhamHoDangHuy_2001215828_Buoi2\\PhamHoDangHuy_2001215828_Buoi2.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\phamhodanghuy_2001215828_buoi2\\gui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6DA5DD19-3282-4EA4-BB62-3441CCC26DE5}|PhamHoDangHuy_2001215828_Buoi2\\PhamHoDangHuy_2001215828_Buoi2.csproj|solutionrelative:phamhodanghuy_2001215828_buoi2\\gui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DA5DD19-3282-4EA4-BB62-3441CCC26DE5}|PhamHoDangHuy_2001215828_Buoi2\\PhamHoDangHuy_2001215828_Buoi2.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi2\\phamhodanghuy_2001215828_buoi2\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6DA5DD19-3282-4EA4-BB62-3441CCC26DE5}|PhamHoDangHuy_2001215828_Buoi2\\PhamHoDangHuy_2001215828_Buoi2.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\phamhodanghuy_2001215828_buoi2\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6DA5DD19-3282-4EA4-BB62-3441CCC26DE5}|PhamHoDangHuy_2001215828_Buoi2\\PhamHoDangHuy_2001215828_Buoi2.csproj|solutionrelative:phamhodanghuy_2001215828_buoi2\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB516CF2-96C9-4585-8C7A-55D2B22B30C0}|UserTextBox\\UserTextBox.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_2001215828_buoi2\\usertextbox\\usertextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB516CF2-96C9-4585-8C7A-55D2B22B30C0}|UserTextBox\\UserTextBox.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\usertextbox\\usertextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB516CF2-96C9-4585-8C7A-55D2B22B30C0}|UserTextBox\\UserTextBox.csproj|solutionrelative:usertextbox\\usertextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -41,6 +85,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{6DAA6B28-216B-4446-AB59-15A9C50348A5}|CardValidatorApp\\CardValidatorApp.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\cardvalidatorapp\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6DAA6B28-216B-4446-AB59-15A9C50348A5}|CardValidatorApp\\CardValidatorApp.csproj|solutionrelative:cardvalidatorapp\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\LoginControl\\obj\\Debug\\net8.0-windows\\LoginControl.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoginControl\\obj\\Debug\\net8.0-windows\\LoginControl.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +98,215 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\MainForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm\\MainForm.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\MainForm\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:12:14.086Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SqlClass.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\SQLClass\\SqlClass.cs",
+              "RelativeDocumentMoniker": "SQLClass\\SqlClass.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\SQLClass\\SqlClass.cs",
+              "RelativeToolTip": "SQLClass\\SqlClass.cs",
+              "ViewState": "AQIAALwAAAAAAAAAAAAmwMgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:59:40.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\MainForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm\\MainForm.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\MainForm\\MainForm.cs",
+              "RelativeToolTip": "MainForm\\MainForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAEwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:17:06.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginControl",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\LoginControl\\LoginControl.csproj",
+              "RelativeDocumentMoniker": "LoginControl\\LoginControl.csproj",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\LoginControl\\LoginControl.csproj",
+              "RelativeToolTip": "LoginControl\\LoginControl.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T13:10:44.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginControl.Designer.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\LoginControl\\LoginControl.Designer.cs",
+              "RelativeDocumentMoniker": "LoginControl\\LoginControl.Designer.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\LoginControl\\LoginControl.Designer.cs",
+              "RelativeToolTip": "LoginControl\\LoginControl.Designer.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAqwFYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:50:50.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LoginControl.cs [Design]",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\LoginControl\\LoginControl.cs",
+              "RelativeDocumentMoniker": "LoginControl\\LoginControl.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\LoginControl\\LoginControl.cs [Design]",
+              "RelativeToolTip": "LoginControl\\LoginControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:50:46.997Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginControl.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\LoginControl\\LoginControl.cs",
+              "RelativeDocumentMoniker": "LoginControl\\LoginControl.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\LoginControl\\LoginControl.cs",
+              "RelativeToolTip": "LoginControl\\LoginControl.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAASwDIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:51:27.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\MainForm\\MainForm.csproj",
+              "RelativeDocumentMoniker": "MainForm\\MainForm.csproj",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\MainForm\\MainForm.csproj",
+              "RelativeToolTip": "MainForm\\MainForm.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T13:11:52.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentInfoControl.cs [Design]",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\StudentInfoControl\\StudentInfoControl.cs",
+              "RelativeDocumentMoniker": "StudentInfoControl\\StudentInfoControl.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\StudentInfoControl\\StudentInfoControl.cs [Design]",
+              "RelativeToolTip": "StudentInfoControl\\StudentInfoControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:23:58.014Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentInfoControl.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\StudentInfoControl\\StudentInfoControl.cs",
+              "RelativeDocumentMoniker": "StudentInfoControl\\StudentInfoControl.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\StudentInfoControl\\StudentInfoControl.cs",
+              "RelativeToolTip": "StudentInfoControl\\StudentInfoControl.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwEIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:24:28.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentInfoControl",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\StudentInfoControl\\StudentInfoControl.csproj",
+              "RelativeDocumentMoniker": "StudentInfoControl\\StudentInfoControl.csproj",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\StudentInfoControl\\StudentInfoControl.csproj",
+              "RelativeToolTip": "StudentInfoControl\\StudentInfoControl.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T13:30:15.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentInfoControl.Designer.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\StudentInfoControl\\StudentInfoControl.Designer.cs",
+              "RelativeDocumentMoniker": "StudentInfoControl\\StudentInfoControl.Designer.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\StudentInfoControl\\StudentInfoControl.Designer.cs",
+              "RelativeToolTip": "StudentInfoControl\\StudentInfoControl.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:23:59.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentInfoControl.GlobalUsings.g.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\StudentInfoControl\\obj\\Debug\\net8.0-windows\\StudentInfoControl.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "StudentInfoControl\\obj\\Debug\\net8.0-windows\\StudentInfoControl.GlobalUsings.g.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\StudentInfoControl\\obj\\Debug\\net8.0-windows\\StudentInfoControl.GlobalUsings.g.cs",
+              "RelativeToolTip": "StudentInfoControl\\obj\\Debug\\net8.0-windows\\StudentInfoControl.GlobalUsings.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:27:32.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentInfoControl.resx",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\StudentInfoControl\\StudentInfoControl.resx",
+              "RelativeDocumentMoniker": "StudentInfoControl\\StudentInfoControl.resx",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\StudentInfoControl\\StudentInfoControl.resx",
+              "RelativeToolTip": "StudentInfoControl\\StudentInfoControl.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-31T13:25:07.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\MainForm\\Program.cs",
+              "RelativeDocumentMoniker": "MainForm\\Program.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\MainForm\\Program.cs",
+              "RelativeToolTip": "MainForm\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:16:50.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\MainForm\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm\\MainForm.Designer.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\MainForm\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm\\MainForm.Designer.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:12:18.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "LoginControl.GlobalUsings.g.cs",
               "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\LoginControl\\obj\\Debug\\net8.0-windows\\LoginControl.GlobalUsings.g.cs",
               "RelativeDocumentMoniker": "LoginControl\\obj\\Debug\\net8.0-windows\\LoginControl.GlobalUsings.g.cs",
@@ -67,45 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginControl.cs",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\LoginControl\\LoginControl.cs",
-              "RelativeDocumentMoniker": "LoginControl\\LoginControl.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\LoginControl\\LoginControl.cs",
-              "RelativeToolTip": "LoginControl\\LoginControl.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACEAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T18:51:27.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginControl.Designer.cs",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\LoginControl\\LoginControl.Designer.cs",
-              "RelativeDocumentMoniker": "LoginControl\\LoginControl.Designer.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\LoginControl\\LoginControl.Designer.cs",
-              "RelativeToolTip": "LoginControl\\LoginControl.Designer.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAqwFUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T18:50:50.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginControl.cs [Design]",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\LoginControl\\LoginControl.cs",
-              "RelativeDocumentMoniker": "LoginControl\\LoginControl.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\LoginControl\\LoginControl.cs [Design]",
-              "RelativeToolTip": "LoginControl\\LoginControl.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T18:50:46.997Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\PhamHoDangHuy_2001215828_Buoi2\\GUI\\MainForm.cs",
               "RelativeDocumentMoniker": "PhamHoDangHuy_2001215828_Buoi2\\GUI\\MainForm.cs",
@@ -117,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "UserTextBox.cs",
               "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\UserTextBox\\UserTextBox.cs",
               "RelativeDocumentMoniker": "UserTextBox\\UserTextBox.cs",
@@ -130,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "UserTextBox.cs [Design]",
               "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\UserTextBox\\UserTextBox.cs",
               "RelativeDocumentMoniker": "UserTextBox\\UserTextBox.cs",
@@ -142,20 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SqlClass.cs",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\SQLClass\\SqlClass.cs",
-              "RelativeDocumentMoniker": "SQLClass\\SqlClass.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\SQLClass\\SqlClass.cs",
-              "RelativeToolTip": "SQLClass\\SqlClass.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T04:59:40.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "LoginForm.cs [Design]",
               "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\PhamHoDangHuy_2001215828_Buoi2\\GUI\\LoginForm.cs",
               "RelativeDocumentMoniker": "PhamHoDangHuy_2001215828_Buoi2\\GUI\\LoginForm.cs",
@@ -167,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\CardValidatorApp\\GUI\\MainForm.cs",
               "RelativeDocumentMoniker": "CardValidatorApp\\GUI\\MainForm.cs",

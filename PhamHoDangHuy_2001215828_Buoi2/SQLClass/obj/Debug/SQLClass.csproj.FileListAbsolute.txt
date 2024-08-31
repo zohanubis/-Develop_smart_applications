@@ -5,7 +5,10 @@ E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\SQLClass\
 E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\SQLClass\obj\Debug\SQLClass.pdb
 D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\SQLClass\bin\Debug\SQLClass.dll
 D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\SQLClass\bin\Debug\SQLClass.pdb
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\SQLClass\bin\Debug\System.Data.SqlClient.dll
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\SQLClass\bin\Debug\System.Data.SqlClient.xml
 D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\SQLClass\obj\Debug\SQLClass.csproj.AssemblyReference.cache
 D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\SQLClass\obj\Debug\SQLClass.csproj.CoreCompileInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\SQLClass\obj\Debug\SQLClass.csproj.Up2Date
 D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\SQLClass\obj\Debug\SQLClass.dll
 D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\SQLClass\obj\Debug\SQLClass.pdb

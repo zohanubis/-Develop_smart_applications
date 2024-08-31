@@ -32,11 +32,7 @@
         "frameworks": {
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
-            "projectReferences": {
-              "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\SQLClass\\SQLClass.csproj": {
-                "projectPath": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\SQLClass\\SQLClass.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -80,21 +76,6 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
-      }
-    },
-    "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\SQLClass\\SQLClass.csproj": {
-      "restore": {
-        "projectUniqueName": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\SQLClass\\SQLClass.csproj",
-        "projectName": "SQLClass",
-        "projectPath": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_2001215828_Buoi2\\SQLClass\\SQLClass.csproj",
-        "frameworks": {
-          "net48": {
-            "projectReferences": {}
-          }
-        }
-      },
-      "frameworks": {
-        "net48": {}
       }
     }
   }

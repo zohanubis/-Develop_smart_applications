@@ -4,7 +4,7 @@ D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\LoginControl\bin\
 D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\LoginControl\bin\Debug\net8.0-windows\SQLClass.dll
 D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\LoginControl\bin\Debug\net8.0-windows\SQLClass.pdb
 D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\LoginControl\obj\Debug\net8.0-windows\LoginControl.csproj.AssemblyReference.cache
-D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\LoginControl\obj\Debug\net8.0-windows\LoginControl.UserControl1.resources
+D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\LoginControl\obj\Debug\net8.0-windows\LoginControl.LoginControl.resources
 D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\LoginControl\obj\Debug\net8.0-windows\LoginControl.csproj.GenerateResource.cache
 D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\LoginControl\obj\Debug\net8.0-windows\LoginControl.GeneratedMSBuildEditorConfig.editorconfig
 D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\LoginControl\obj\Debug\net8.0-windows\LoginControl.AssemblyInfoInputs.cache
