@@ -20,7 +20,7 @@ namespace CardValidatorApp.GUI
         private void btnValidate_Click(object sender, EventArgs e)
         {
 
-            CardValidator validator = new CardValidator("Name", txtCardNo.Text);
+            Card_Validator validator = new Card_Validator("Name", txtCardNo.Text);
 
             if (validator.Validate())
             {

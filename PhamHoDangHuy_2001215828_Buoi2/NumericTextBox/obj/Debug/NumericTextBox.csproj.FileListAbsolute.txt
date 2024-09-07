@@ -4,11 +4,4 @@ E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\NumericTe
 E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\NumericTextBox\obj\Debug\NumericTextBox.pdb
 E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\NumericTextBox\obj\Debug\NumericTextBox.NumericTextBox.resources
 E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\NumericTextBox\obj\Debug\NumericTextBox.csproj.GenerateResource.Cache
-D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\NumericTextBox\bin\Debug\NumericTextBox.dll
-D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\NumericTextBox\bin\Debug\NumericTextBox.pdb
-D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\NumericTextBox\obj\Debug\NumericTextBox.csproj.AssemblyReference.cache
-D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\NumericTextBox\obj\Debug\NumericTextBox.NumericTextBox.resources
-D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\NumericTextBox\obj\Debug\NumericTextBox.csproj.GenerateResource.cache
-D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\NumericTextBox\obj\Debug\NumericTextBox.csproj.CoreCompileInputs.cache
-D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\NumericTextBox\obj\Debug\NumericTextBox.dll
-D:\IDE CODE\VS\Develop_SmartApp\PhamHoDangHuy_2001215828_Buoi2\NumericTextBox\obj\Debug\NumericTextBox.pdb
+E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\NumericTextBox\obj\Debug\NumericTextBox.csprojResolveAssemblyReference.cache

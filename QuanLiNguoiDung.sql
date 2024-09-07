@@ -1,0 +1,40 @@
+CREATE DATABASE QuanLiNguoiDung;
+GO
+USE QuanLiNguoiDung;
+GO
+
+CREATE TABLE Users(
+	UserID INT PRIMARY KEY IDENTITY (1,1),
+	Username NVARCHAR(50) NOT NULL,
+	Password NVARCHAR(50) NOT NULL
+);
+
+INSERT INTO Users(Username, Password)
+VALUES 
+('admin', 'admin');
+GO
+SELECT * FROM Users;
+
+CREATE TABLE Lop(
+	MaLop NVARCHAR(10) PRIMARY KEY,
+	TenLop NVARCHAR(20)
+);
+INSERT INTO Lop(MaLop,TenLop)
+VALUES 
+('12DHTH01', '12DHTH01');
+GO
+CREATE TABLE SinhVien(
+	MSSV NVARCHAR(20) PRIMARY KEY ,
+	HoTen NVARCHAR(100),
+	NgaySinh DATE,
+	GioiTinh NVARCHAR(10),
+	MaLop NVARCHAR(20),
+	CMND NVARCHAR(20)
+);
+GO
+
+INSERT INTO SinhVien(MSSV, HoTen,NgaySinh,GioiTinh,MaLop,CMND)
+VALUES 
+('SV001', 'Dang Huy', '2003-10-14', 'Nam', '12DHTH01', NULL);
+GO
+SELECT * FROM SinhVien;

@@ -1,0 +1,13 @@
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ConnectionControls\SqlClassLibrary\bin\Debug\net8.0\SqlClassLibrary.deps.json
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ConnectionControls\SqlClassLibrary\bin\Debug\net8.0\SqlClassLibrary.dll
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ConnectionControls\SqlClassLibrary\bin\Debug\net8.0\SqlClassLibrary.pdb
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ConnectionControls\SqlClassLibrary\obj\Debug\net8.0\SqlClassLibrary.csproj.AssemblyReference.cache
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ConnectionControls\SqlClassLibrary\obj\Debug\net8.0\SqlClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ConnectionControls\SqlClassLibrary\obj\Debug\net8.0\SqlClassLibrary.AssemblyInfoInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ConnectionControls\SqlClassLibrary\obj\Debug\net8.0\SqlClassLibrary.AssemblyInfo.cs
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ConnectionControls\SqlClassLibrary\obj\Debug\net8.0\SqlClassLibrary.csproj.CoreCompileInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ConnectionControls\SqlClassLibrary\obj\Debug\net8.0\SqlClassLibrary.sourcelink.json
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ConnectionControls\SqlClassLibrary\obj\Debug\net8.0\SqlClassLibrary.dll
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ConnectionControls\SqlClassLibrary\obj\Debug\net8.0\refint\SqlClassLibrary.dll
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ConnectionControls\SqlClassLibrary\obj\Debug\net8.0\SqlClassLibrary.pdb
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ConnectionControls\SqlClassLibrary\obj\Debug\net8.0\ref\SqlClassLibrary.dll

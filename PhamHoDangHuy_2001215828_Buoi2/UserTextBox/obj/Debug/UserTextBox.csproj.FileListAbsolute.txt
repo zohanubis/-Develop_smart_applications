@@ -2,3 +2,4 @@ E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\UserTextB
 E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\UserTextBox\bin\Debug\UserTextBox.pdb
 E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\UserTextBox\obj\Debug\UserTextBox.dll
 E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\UserTextBox\obj\Debug\UserTextBox.pdb
+E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\UserTextBox\obj\Debug\UserTextBox.csprojResolveAssemblyReference.cache

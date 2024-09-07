@@ -9,7 +9,7 @@ namespace NumericTextBox
 {
     public class NumericTextBox : TextBox
     {
-        private System.Windows.Forms.ErrorProvider errorProvider = new ErrorProvider();
+        private System.Windows.Forms.ErrorProvider  errorProvider = new ErrorProvider;
         public NumericTextBox()
         {
             this.KeyPress += NumericTextBox_KeyPress;

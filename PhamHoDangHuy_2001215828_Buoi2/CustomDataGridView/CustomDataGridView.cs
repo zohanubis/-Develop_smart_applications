@@ -9,15 +9,16 @@ namespace CustomDataGridView
 {
     public class CustomDataGridView : DataGridView
     {
-        protected override void OnRowPrePaint(DataGridViewRowPrePaintEventArgs e){
+        protected override void OnRowPrePaint(DataGridViewRowPrePaintEventArgs e)
+        {
             base.OnRowPrePaint(e);
             if (e.RowIndex % 2 == 0)
             {
-                this.Rows[e.RowIndex].DefaultCellStyle.BackColor = Color.AntiqueWhite;
+                this.Rows[e.RowIndex].DefaultCellStyle.BackColor = ColorDepth.Depth24Bit;
             }
             else
             {
-                this.Rows[e.RowIndex].DefaultCellStyle.BackColor = Color.Azure;
+                this.Rows[e.RowIndex].DefaultCellStyle.BackColor = ColorDepth.Depth16Bit;
             }
         }
     }

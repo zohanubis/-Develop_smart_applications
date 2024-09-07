@@ -1,0 +1,9 @@
+E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\DangNhapControl\bin\Debug\DangNhapControl.dll
+E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\DangNhapControl\bin\Debug\DangNhapControl.pdb
+E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\DangNhapControl\bin\Debug\SQLClass.dll
+E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\DangNhapControl\bin\Debug\SQLClass.pdb
+E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\DangNhapControl\obj\Debug\DangNhapControl.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\DangNhapControl\obj\Debug\DangNhapControl.DangNhap.resources
+E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\DangNhapControl\obj\Debug\DangNhapControl.csproj.GenerateResource.Cache
+E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\DangNhapControl\obj\Debug\DangNhapControl.dll
+E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\DangNhapControl\obj\Debug\DangNhapControl.pdb

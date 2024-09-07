@@ -7,27 +7,25 @@ using System.Windows.Forms;
 using System.Text.RegularExpressions;
 namespace PassTextBox
 {
-   public class PassTextBox : TextBox
+    public class PassTextBox : TextBox
     {
-    private ErrorProvider errorProvider = new ErrorProvider();
+        private ErrorProvider errorProvider = new ErrorProvider();
 
-    protected override void OnTextChanged(EventArgs e)
-    {
-        base.OnTextChanged(e);
-        ValidatePassword();
-    }
-
-    private void ValidatePassword()
-    {
-        if (this.Text.Length < 6 || !Regex.IsMatch(this.Text, @"[!|<>@#$%^&*(),.?\"))
+        protected override void OnTextChanged(EventArgs e)
         {
-            errorProvider.SetError(this, "Password must be at least 6 characters long and contain at least one special character.");
+            base.OnTextChanged(e);
+            ValidatePassword();
         }
-        else
+        private void ValidatePassword()
         {
-            errorProvider.SetError(this, string.Empty);
+            if(this.Text.Length < 6  || !Regex.IsMatch(this.Text,   @"[!@#$%^&*(),.?\":{}|<>]""))
+            {
+                errorProvider.SetError(this, "Password must be at least 6 character and special character");
+            }
+            else{
+                errorProvider.SetError(this, string.Empty);
+            }
         }
     }
 }
-
-}
+ 

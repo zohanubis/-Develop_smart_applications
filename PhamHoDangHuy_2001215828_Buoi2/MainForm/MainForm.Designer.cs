@@ -18,7 +18,8 @@
                 components.Dispose();
             }
             base.Dispose(disposing);
-        }
+        
+            
 
         #region Windows Form Designer generated code
 
@@ -28,43 +29,28 @@
         /// </summary>
         private void InitializeComponent()
         {
-            loginControl1 = new LoginControl.LoginControl();
-            studentInfoControl1 = new StudentInfoControl.StudentInfoControl();
-            SuspendLayout();
+            this.dangNhap1 = new DangNhapControl.DangNhap();
+            this.SuspendLayout();
             // 
-            // loginControl1
+            // dangNhap1
             // 
-            loginControl1.Location = new Point(12, 13);
-            loginControl1.Margin = new Padding(3, 4, 3, 4);
-            loginControl1.Name = "loginControl1";
-            loginControl1.Size = new Size(400, 225);
-            loginControl1.TabIndex = 0;
-            // 
-            // studentInfoControl1
-            // 
-            studentInfoControl1.Location = new Point(12, 164);
-            studentInfoControl1.Margin = new Padding(4, 5, 4, 5);
-            studentInfoControl1.Name = "studentInfoControl1";
-            studentInfoControl1.Size = new Size(500, 375);
-            studentInfoControl1.TabIndex = 1;
+            this.dangNhap1.Location = new System.Drawing.Point(12, 12);
+            this.dangNhap1.Name = "dangNhap1";
+            this.dangNhap1.Size = new System.Drawing.Size(400, 180);
+            this.dangNhap1.TabIndex = 0;
             // 
             // MainForm
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
-            AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(483, 521);
-            Controls.Add(studentInfoControl1);
-            Controls.Add(loginControl1);
-            Margin = new Padding(3, 4, 3, 4);
-            Name = "MainForm";
-            Text = "Main Form";
-            Load += MainForm_Load;
-            ResumeLayout(false);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(406, 179);
+            this.Controls.Add(this.dangNhap1);
+            this.Name = "MainForm";
+            this.Text = "MainForm";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
 
-        private LoginControl.LoginControl loginControl1;
-        private StudentInfoControl.StudentInfoControl studentInfoControl1;
-    }
-}
+        private DangNhapControl.DangNhap dangNhap1

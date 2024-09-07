@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4CFE2D-D455-40F0-AC1F-309222808DD7}|ThuVien\\ThuVien.csproj|d:\\ide code\\vs\\develop_smartapp\\phamhodanghuy_buoi2_connectiondatabase\\thuvien\\sqlclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4CFE2D-D455-40F0-AC1F-309222808DD7}|ThuVien\\ThuVien.csproj|solutionrelative:thuvien\\sqlclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC6540F-4B68-4668-A6C2-5A0EAF7DB929}|LoginControl\\LoginControl.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\logincontrol\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CC6540F-4B68-4668-A6C2-5A0EAF7DB929}|LoginControl\\LoginControl.csproj|solutionrelative:logincontrol\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B7345D-785B-4779-AE28-6E0BE0DBECE9}|StudentInfo\\StudentInfo.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\studentinfo\\studentinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B7345D-785B-4779-AE28-6E0BE0DBECE9}|StudentInfo\\StudentInfo.csproj|solutionrelative:studentinfo\\studentinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D9E4B-5177-4EE6-ADBD-5B944D6C9225}|PhamHoDangHuy_Buoi2_ConnectionDatabase\\PhamHoDangHuy_Buoi2_ConnectionDatabase.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\phamhodanghuy_buoi2_connectiondatabase\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D9E4B-5177-4EE6-ADBD-5B944D6C9225}|PhamHoDangHuy_Buoi2_ConnectionDatabase\\PhamHoDangHuy_Buoi2_ConnectionDatabase.csproj|solutionrelative:phamhodanghuy_buoi2_connectiondatabase\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B7345D-785B-4779-AE28-6E0BE0DBECE9}|StudentInfo\\StudentInfo.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\studentinfo\\studentinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27B7345D-785B-4779-AE28-6E0BE0DBECE9}|StudentInfo\\StudentInfo.csproj|solutionrelative:studentinfo\\studentinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B7345D-785B-4779-AE28-6E0BE0DBECE9}|StudentInfo\\StudentInfo.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\studentinfo\\studentinfocontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B7345D-785B-4779-AE28-6E0BE0DBECE9}|StudentInfo\\StudentInfo.csproj|solutionrelative:studentinfo\\studentinfocontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D9E4B-5177-4EE6-ADBD-5B944D6C9225}|PhamHoDangHuy_Buoi2_ConnectionDatabase\\PhamHoDangHuy_Buoi2_ConnectionDatabase.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\phamhodanghuy_buoi2_connectiondatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D9E4B-5177-4EE6-ADBD-5B944D6C9225}|PhamHoDangHuy_Buoi2_ConnectionDatabase\\PhamHoDangHuy_Buoi2_ConnectionDatabase.csproj|solutionrelative:phamhodanghuy_buoi2_connectiondatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginControl.cs [Design]",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\LoginControl\\LoginControl.cs",
+              "RelativeDocumentMoniker": "LoginControl\\LoginControl.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\LoginControl\\LoginControl.cs [Design]",
+              "RelativeToolTip": "LoginControl\\LoginControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T06:39:18.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentInfoControl.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\StudentInfo\\StudentInfoControl.cs",
+              "RelativeDocumentMoniker": "StudentInfo\\StudentInfoControl.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\StudentInfo\\StudentInfoControl.cs",
+              "RelativeToolTip": "StudentInfo\\StudentInfoControl.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T06:33:19.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentInfoControl.cs [Design]",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\StudentInfo\\StudentInfoControl.cs",
+              "RelativeDocumentMoniker": "StudentInfo\\StudentInfoControl.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\StudentInfo\\StudentInfoControl.cs [Design]",
+              "RelativeToolTip": "StudentInfo\\StudentInfoControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T06:33:17.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentInfoControl.Designer.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\StudentInfo\\StudentInfoControl.Designer.cs",
+              "RelativeDocumentMoniker": "StudentInfo\\StudentInfoControl.Designer.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\StudentInfo\\StudentInfoControl.Designer.cs",
+              "RelativeToolTip": "StudentInfo\\StudentInfoControl.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T06:33:14.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlClass.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\ThuVien\\SqlClass.cs",
+              "RelativeDocumentMoniker": "ThuVien\\SqlClass.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\ThuVien\\SqlClass.cs",
+              "RelativeToolTip": "ThuVien\\SqlClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T06:32:51.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "PhamHoDangHuy_Buoi2_ConnectionDatabase\\Program.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\Program.cs",
+              "RelativeToolTip": "PhamHoDangHuy_Buoi2_ConnectionDatabase\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAawBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T06:32:51.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\GUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "PhamHoDangHuy_Buoi2_ConnectionDatabase\\GUI\\MainForm.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\PhamHoDangHuy_Buoi2_ConnectionDatabase\\GUI\\MainForm.cs",
+              "RelativeToolTip": "PhamHoDangHuy_Buoi2_ConnectionDatabase\\GUI\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T06:28:04.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
