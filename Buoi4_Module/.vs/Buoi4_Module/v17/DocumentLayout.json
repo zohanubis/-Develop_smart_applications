@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi4_Module\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0AE4B0B-268B-4109-9DFF-9562593FA173}|ConfigUserControl\\ConfigUserControl.csproj|d:\\ide code\\vs\\develop_smartapp\\buoi4_module\\configusercontrol\\configusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0AE4B0B-268B-4109-9DFF-9562593FA173}|ConfigUserControl\\ConfigUserControl.csproj|solutionrelative:configusercontrol\\configusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0AE4B0B-268B-4109-9DFF-9562593FA173}|ConfigUserControl\\ConfigUserControl.csproj|d:\\ide code\\vs\\develop_smartapp\\buoi4_module\\configusercontrol\\configusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0AE4B0B-268B-4109-9DFF-9562593FA173}|ConfigUserControl\\ConfigUserControl.csproj|solutionrelative:configusercontrol\\configusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0AE4B0B-268B-4109-9DFF-9562593FA173}|ConfigUserControl\\ConfigUserControl.csproj|d:\\ide code\\vs\\develop_smartapp\\buoi4_module\\configusercontrol\\configusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0AE4B0B-268B-4109-9DFF-9562593FA173}|ConfigUserControl\\ConfigUserControl.csproj|solutionrelative:configusercontrol\\configusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C246145F-347C-4A28-B4BA-E63A7F84E599}|LoginUserControl\\LoginUserControl.csproj|d:\\ide code\\vs\\develop_smartapp\\buoi4_module\\loginusercontrol\\loginusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C246145F-347C-4A28-B4BA-E63A7F84E599}|LoginUserControl\\LoginUserControl.csproj|solutionrelative:loginusercontrol\\loginusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C246145F-347C-4A28-B4BA-E63A7F84E599}|LoginUserControl\\LoginUserControl.csproj|d:\\ide code\\vs\\develop_smartapp\\buoi4_module\\loginusercontrol\\loginusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C246145F-347C-4A28-B4BA-E63A7F84E599}|LoginUserControl\\LoginUserControl.csproj|solutionrelative:loginusercontrol\\loginusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C246145F-347C-4A28-B4BA-E63A7F84E599}|LoginUserControl\\LoginUserControl.csproj|d:\\ide code\\vs\\develop_smartapp\\buoi4_module\\loginusercontrol\\loginusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C246145F-347C-4A28-B4BA-E63A7F84E599}|LoginUserControl\\LoginUserControl.csproj|solutionrelative:loginusercontrol\\loginusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584064AA-E7C6-42F9-AEAC-6B96E0F500E6}|Buoi4_Module\\Buoi4_Module.csproj|d:\\ide code\\vs\\develop_smartapp\\buoi4_module\\buoi4_module\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{584064AA-E7C6-42F9-AEAC-6B96E0F500E6}|Buoi4_Module\\Buoi4_Module.csproj|solutionrelative:buoi4_module\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigUserControl.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi4_Module\\ConfigUserControl\\ConfigUserControl.cs",
+              "RelativeDocumentMoniker": "ConfigUserControl\\ConfigUserControl.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi4_Module\\ConfigUserControl\\ConfigUserControl.cs",
+              "RelativeToolTip": "ConfigUserControl\\ConfigUserControl.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:47:50.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigUserControl.Designer.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi4_Module\\ConfigUserControl\\ConfigUserControl.Designer.cs",
+              "RelativeDocumentMoniker": "ConfigUserControl\\ConfigUserControl.Designer.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi4_Module\\ConfigUserControl\\ConfigUserControl.Designer.cs",
+              "RelativeToolTip": "ConfigUserControl\\ConfigUserControl.Designer.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAUwIUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:47:35.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigUserControl.cs [Design]",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi4_Module\\ConfigUserControl\\ConfigUserControl.cs",
+              "RelativeDocumentMoniker": "ConfigUserControl\\ConfigUserControl.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi4_Module\\ConfigUserControl\\ConfigUserControl.cs [Design]",
+              "RelativeToolTip": "ConfigUserControl\\ConfigUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:47:26.24Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginUserControl.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi4_Module\\LoginUserControl\\LoginUserControl.cs",
+              "RelativeDocumentMoniker": "LoginUserControl\\LoginUserControl.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi4_Module\\LoginUserControl\\LoginUserControl.cs",
+              "RelativeToolTip": "LoginUserControl\\LoginUserControl.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA2wBQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:42:58.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginUserControl.Designer.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi4_Module\\LoginUserControl\\LoginUserControl.Designer.cs",
+              "RelativeDocumentMoniker": "LoginUserControl\\LoginUserControl.Designer.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi4_Module\\LoginUserControl\\LoginUserControl.Designer.cs",
+              "RelativeToolTip": "LoginUserControl\\LoginUserControl.Designer.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAUwGMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:42:30.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginUserControl.cs [Design]",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi4_Module\\LoginUserControl\\LoginUserControl.cs",
+              "RelativeDocumentMoniker": "LoginUserControl\\LoginUserControl.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi4_Module\\LoginUserControl\\LoginUserControl.cs [Design]",
+              "RelativeToolTip": "LoginUserControl\\LoginUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:42:17.137Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi4_Module\\Buoi4_Module\\MainForm.cs",
+              "RelativeDocumentMoniker": "Buoi4_Module\\MainForm.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi4_Module\\Buoi4_Module\\MainForm.cs [Design]",
+              "RelativeToolTip": "Buoi4_Module\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:41:59.011Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
