@@ -1,0 +1,11 @@
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\UserControlSV\bin\Debug\UserControlSV.dll
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\UserControlSV\bin\Debug\UserControlSV.pdb
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\UserControlSV\bin\Debug\SqlClassLibrary.dll
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\UserControlSV\bin\Debug\SqlClassLibrary.pdb
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\UserControlSV\obj\Debug\UserControlSV.csproj.AssemblyReference.cache
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\UserControlSV\obj\Debug\UserControlSinhVien.UserControlSinhVien.resources
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\UserControlSV\obj\Debug\UserControlSV.csproj.GenerateResource.cache
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\UserControlSV\obj\Debug\UserControlSV.csproj.CoreCompileInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\UserControlSV\obj\Debug\UserCont.5CD66E40.Up2Date
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\UserControlSV\obj\Debug\UserControlSV.dll
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\UserControlSV\obj\Debug\UserControlSV.pdb

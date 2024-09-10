@@ -1,0 +1,9 @@
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\DongHoBamGio\bin\Debug\DongHoBamGio.exe.config
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\DongHoBamGio\bin\Debug\DongHoBamGio.exe
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\DongHoBamGio\bin\Debug\DongHoBamGio.pdb
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\DongHoBamGio\obj\Debug\DongHoBamGio.csproj.AssemblyReference.cache
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\DongHoBamGio\obj\Debug\DongHoBamGio.Properties.Resources.resources
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\DongHoBamGio\obj\Debug\DongHoBamGio.csproj.GenerateResource.cache
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\DongHoBamGio\obj\Debug\DongHoBamGio.csproj.CoreCompileInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\DongHoBamGio\obj\Debug\DongHoBamGio.exe
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\DongHoBamGio\obj\Debug\DongHoBamGio.pdb

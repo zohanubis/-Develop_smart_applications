@@ -1,4 +1,0 @@
-E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\MailTextBox\bin\Debug\MailTextBox.dll
-E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\MailTextBox\bin\Debug\MailTextBox.pdb
-E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\MailTextBox\obj\Debug\MailTextBox.dll
-E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\PhamHoDangHuy_2001215828_Buoi2\MailTextBox\obj\Debug\MailTextBox.pdb

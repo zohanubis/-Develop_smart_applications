@@ -1,5 +1,0 @@
-E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\New folder\PhamHoDangHuy_Buoi2_ConnectionDatabase\ThuVien\bin\Debug\ThuVien.dll
-E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\New folder\PhamHoDangHuy_Buoi2_ConnectionDatabase\ThuVien\bin\Debug\ThuVien.pdb
-E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\New folder\PhamHoDangHuy_Buoi2_ConnectionDatabase\ThuVien\obj\Debug\ThuVien.csprojResolveAssemblyReference.cache
-E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\New folder\PhamHoDangHuy_Buoi2_ConnectionDatabase\ThuVien\obj\Debug\ThuVien.dll
-E:\LuuDuLieuSV\PhamHoDangHuy_2001215828\New folder\PhamHoDangHuy_Buoi2_ConnectionDatabase\ThuVien\obj\Debug\ThuVien.pdb

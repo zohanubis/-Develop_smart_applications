@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D937B-F980-4731-901F-DA523EABC3C5}|DongHoBamGio\\DongHoBamGio.csproj|d:\\ide code\\vs\\develop_smartapp\\buoi2_controlconnection\\donghobamgio\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D937B-F980-4731-901F-DA523EABC3C5}|DongHoBamGio\\DongHoBamGio.csproj|solutionrelative:donghobamgio\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D937B-F980-4731-901F-DA523EABC3C5}|DongHoBamGio\\DongHoBamGio.csproj|d:\\ide code\\vs\\develop_smartapp\\buoi2_controlconnection\\donghobamgio\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC5D937B-F980-4731-901F-DA523EABC3C5}|DongHoBamGio\\DongHoBamGio.csproj|solutionrelative:donghobamgio\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26694DCD-E439-47D7-8442-D102BE7CCC9E}|UserControlSV\\UserControlSV.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\usercontrolsv\\usercontrolsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26694DCD-E439-47D7-8442-D102BE7CCC9E}|UserControlSV\\UserControlSV.csproj|solutionrelative:usercontrolsv\\usercontrolsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E721E9-8FD1-4300-B367-55DB5A1A921A}|Buoi2_ControlConnection\\Buoi2_ControlConnection.csproj|d:\\ide code\\vs\\develop_smartapp\\buoi2_controlconnection\\buoi2_controlconnection\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E721E9-8FD1-4300-B367-55DB5A1A921A}|Buoi2_ControlConnection\\Buoi2_ControlConnection.csproj|solutionrelative:buoi2_controlconnection\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E721E9-8FD1-4300-B367-55DB5A1A921A}|Buoi2_ControlConnection\\Buoi2_ControlConnection.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\buoi2_controlconnection\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35E721E9-8FD1-4300-B367-55DB5A1A921A}|Buoi2_ControlConnection\\Buoi2_ControlConnection.csproj|solutionrelative:buoi2_controlconnection\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE22C15-F1C4-4CA5-AE67-34C79066DF86}|SqlClassLibrary\\SqlClassLibrary.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\sqlclasslibrary\\sqlclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE22C15-F1C4-4CA5-AE67-34C79066DF86}|SqlClassLibrary\\SqlClassLibrary.csproj|solutionrelative:sqlclasslibrary\\sqlclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E721E9-8FD1-4300-B367-55DB5A1A921A}|Buoi2_ControlConnection\\Buoi2_ControlConnection.csproj|d:\\ide code\\vs\\develop_smartapp\\buoi2_controlconnection\\buoi2_controlconnection\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E721E9-8FD1-4300-B367-55DB5A1A921A}|Buoi2_ControlConnection\\Buoi2_ControlConnection.csproj|solutionrelative:buoi2_controlconnection\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26694DCD-E439-47D7-8442-D102BE7CCC9E}|UserControlSV\\UserControlSV.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\usercontrolsv\\usercontrolsinhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26694DCD-E439-47D7-8442-D102BE7CCC9E}|UserControlSV\\UserControlSV.csproj|solutionrelative:usercontrolsv\\usercontrolsinhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26694DCD-E439-47D7-8442-D102BE7CCC9E}|UserControlSV\\UserControlSV.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\usercontrolsv\\usercontrolsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26694DCD-E439-47D7-8442-D102BE7CCC9E}|UserControlSV\\UserControlSV.csproj|solutionrelative:usercontrolsv\\usercontrolsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\DongHoBamGio\\MainForm.cs",
+              "RelativeDocumentMoniker": "DongHoBamGio\\MainForm.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\DongHoBamGio\\MainForm.cs",
+              "RelativeToolTip": "DongHoBamGio\\MainForm.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:25:45.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\DongHoBamGio\\MainForm.cs",
+              "RelativeDocumentMoniker": "DongHoBamGio\\MainForm.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\DongHoBamGio\\MainForm.cs [Design]",
+              "RelativeToolTip": "DongHoBamGio\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:25:43.55Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\Buoi2_ControlConnection\\MainForm.cs",
+              "RelativeDocumentMoniker": "Buoi2_ControlConnection\\MainForm.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\Buoi2_ControlConnection\\MainForm.cs",
+              "RelativeToolTip": "Buoi2_ControlConnection\\MainForm.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvxcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:20:20.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\Buoi2_ControlConnection\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Buoi2_ControlConnection\\MainForm.Designer.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\Buoi2_ControlConnection\\MainForm.Designer.cs",
+              "RelativeToolTip": "Buoi2_ControlConnection\\MainForm.Designer.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAUwDwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:06:51.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserControlSinhVien.Designer.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\UserControlSV\\UserControlSinhVien.Designer.cs",
+              "RelativeDocumentMoniker": "UserControlSV\\UserControlSinhVien.Designer.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\UserControlSV\\UserControlSinhVien.Designer.cs",
+              "RelativeToolTip": "UserControlSV\\UserControlSinhVien.Designer.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAmwDgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T07:43:58.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControlSinhVien.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\UserControlSV\\UserControlSinhVien.cs",
+              "RelativeDocumentMoniker": "UserControlSV\\UserControlSinhVien.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\UserControlSV\\UserControlSinhVien.cs",
+              "RelativeToolTip": "UserControlSV\\UserControlSinhVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T07:43:55.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SqlClass.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\SqlClassLibrary\\SqlClass.cs",
+              "RelativeDocumentMoniker": "SqlClassLibrary\\SqlClass.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\SqlClassLibrary\\SqlClass.cs",
+              "RelativeToolTip": "SqlClassLibrary\\SqlClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T07:41:49.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\Buoi2_ControlConnection\\MainForm.cs",
+              "RelativeDocumentMoniker": "Buoi2_ControlConnection\\MainForm.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\Buoi2_ControlConnection\\MainForm.cs [Design]",
+              "RelativeToolTip": "Buoi2_ControlConnection\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T07:40:00.179Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserControlSinhVien.cs [Design]",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\UserControlSV\\UserControlSinhVien.cs",
+              "RelativeDocumentMoniker": "UserControlSV\\UserControlSinhVien.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Buoi2_ControlConnection\\UserControlSV\\UserControlSinhVien.cs [Design]",
+              "RelativeToolTip": "UserControlSV\\UserControlSinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T07:43:30.885Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

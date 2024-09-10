@@ -1,0 +1,6 @@
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\SqlClassLibrary\bin\Debug\SqlClassLibrary.dll
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\SqlClassLibrary\bin\Debug\SqlClassLibrary.pdb
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\SqlClassLibrary\obj\Debug\SqlClassLibrary.csproj.AssemblyReference.cache
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\SqlClassLibrary\obj\Debug\SqlClassLibrary.csproj.CoreCompileInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\SqlClassLibrary\obj\Debug\SqlClassLibrary.dll
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\SqlClassLibrary\obj\Debug\SqlClassLibrary.pdb

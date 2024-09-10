@@ -1,0 +1,15 @@
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\Buoi2_ControlConnection\bin\Debug\Buoi2_ControlConnection.exe.config
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\Buoi2_ControlConnection\bin\Debug\Buoi2_ControlConnection.exe
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\Buoi2_ControlConnection\bin\Debug\Buoi2_ControlConnection.pdb
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\Buoi2_ControlConnection\bin\Debug\SqlClassLibrary.dll
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\Buoi2_ControlConnection\bin\Debug\SqlClassLibrary.pdb
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\Buoi2_ControlConnection\obj\Debug\Buoi2_ControlConnection.csproj.AssemblyReference.cache
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\Buoi2_ControlConnection\obj\Debug\Buoi2_ControlConnection.Properties.Resources.resources
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\Buoi2_ControlConnection\obj\Debug\Buoi2_ControlConnection.csproj.GenerateResource.cache
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\Buoi2_ControlConnection\obj\Debug\Buoi2_ControlConnection.csproj.CoreCompileInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\Buoi2_ControlConnection\obj\Debug\Buoi2_Co.C2447B93.Up2Date
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\Buoi2_ControlConnection\obj\Debug\Buoi2_ControlConnection.exe
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\Buoi2_ControlConnection\obj\Debug\Buoi2_ControlConnection.pdb
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\Buoi2_ControlConnection\bin\Debug\UserControlSV.dll
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\Buoi2_ControlConnection\bin\Debug\UserControlSV.pdb
+D:\IDE CODE\VS\Develop_SmartApp\Buoi2_ControlConnection\Buoi2_ControlConnection\obj\Debug\Buoi2_ControlConnection.MainForm.resources
