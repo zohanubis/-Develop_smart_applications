@@ -1,0 +1,6 @@
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\NumbericTextBox\bin\Debug\NumbericTextBox.dll
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\NumbericTextBox\bin\Debug\NumbericTextBox.pdb
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\NumbericTextBox\obj\Debug\NumbericTextBox.csproj.AssemblyReference.cache
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\NumbericTextBox\obj\Debug\NumbericTextBox.csproj.CoreCompileInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\NumbericTextBox\obj\Debug\NumbericTextBox.dll
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\NumbericTextBox\obj\Debug\NumbericTextBox.pdb

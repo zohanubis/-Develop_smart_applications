@@ -1,0 +1,2 @@
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\MailTextBox\obj\Debug\MailTextBox.csproj.AssemblyReference.cache
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\MailTextBox\obj\Debug\MailTextBox.csproj.CoreCompileInputs.cache

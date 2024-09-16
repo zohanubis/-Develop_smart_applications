@@ -1,0 +1,14 @@
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\Test_PhamHoDangHuy\bin\Debug\Test_PhamHoDangHuy.exe.config
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\Test_PhamHoDangHuy\bin\Debug\Test_PhamHoDangHuy.exe
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\Test_PhamHoDangHuy\bin\Debug\Test_PhamHoDangHuy.pdb
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\Test_PhamHoDangHuy\obj\Debug\Test_PhamHoDangHuy.csproj.AssemblyReference.cache
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\Test_PhamHoDangHuy\obj\Debug\Test_PhamHoDangHuy.Properties.Resources.resources
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\Test_PhamHoDangHuy\obj\Debug\Test_PhamHoDangHuy.csproj.GenerateResource.cache
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\Test_PhamHoDangHuy\obj\Debug\Test_PhamHoDangHuy.csproj.CoreCompileInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\Test_PhamHoDangHuy\obj\Debug\Test_PhamHoDangHuy.exe
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\Test_PhamHoDangHuy\obj\Debug\Test_PhamHoDangHuy.pdb
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\Test_PhamHoDangHuy\obj\Debug\Test_PhamHoDangHuy.GUI.frmDangNhap.resources
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\Test_PhamHoDangHuy\bin\Debug\NumbericTextBox.dll
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\Test_PhamHoDangHuy\bin\Debug\NumbericTextBox.pdb
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\Test_PhamHoDangHuy\obj\Debug\Test_PhamHoDangHuy.GUI.MainForm.resources
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\Test_PhamHoDangHuy\obj\Debug\Test_Pha.5B3BC565.Up2Date

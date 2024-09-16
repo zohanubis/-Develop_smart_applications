@@ -1,0 +1,2 @@
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\UpperTextBox\obj\Debug\UpperTextBox.csproj.AssemblyReference.cache
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\UpperTextBox\obj\Debug\UpperTextBox.csproj.CoreCompileInputs.cache

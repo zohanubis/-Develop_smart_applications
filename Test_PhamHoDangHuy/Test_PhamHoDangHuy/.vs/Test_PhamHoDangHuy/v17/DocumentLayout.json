@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80E4248C-5463-4D7E-B7E9-C4AF0FC63F9A}|PassTextBox\\PassTextBox.csproj|d:\\ide code\\vs\\develop_smartapp\\test_phamhodanghuy\\test_phamhodanghuy\\passtextbox\\passtextbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E4248C-5463-4D7E-B7E9-C4AF0FC63F9A}|PassTextBox\\PassTextBox.csproj|solutionrelative:passtextbox\\passtextbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E4248C-5463-4D7E-B7E9-C4AF0FC63F9A}|PassTextBox\\PassTextBox.csproj|d:\\ide code\\vs\\develop_smartapp\\test_phamhodanghuy\\test_phamhodanghuy\\passtextbox\\passtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E4248C-5463-4D7E-B7E9-C4AF0FC63F9A}|PassTextBox\\PassTextBox.csproj|solutionrelative:passtextbox\\passtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E4248C-5463-4D7E-B7E9-C4AF0FC63F9A}|PassTextBox\\PassTextBox.csproj|d:\\ide code\\vs\\develop_smartapp\\test_phamhodanghuy\\test_phamhodanghuy\\passtextbox\\passtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80E4248C-5463-4D7E-B7E9-C4AF0FC63F9A}|PassTextBox\\PassTextBox.csproj|solutionrelative:passtextbox\\passtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B905B-E453-4D99-9B1B-A50A0444B9D6}|UserTextBox\\UserTextBox.csproj|d:\\ide code\\vs\\develop_smartapp\\test_phamhodanghuy\\test_phamhodanghuy\\usertextbox\\usertextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942B905B-E453-4D99-9B1B-A50A0444B9D6}|UserTextBox\\UserTextBox.csproj|solutionrelative:usertextbox\\usertextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFD97CD-AFB9-4AB7-9D70-4BE4926C57D2}|NumbericTextBox\\NumbericTextBox.csproj|d:\\ide code\\vs\\develop_smartapp\\test_phamhodanghuy\\test_phamhodanghuy\\numberictextbox\\numberictextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFD97CD-AFB9-4AB7-9D70-4BE4926C57D2}|NumbericTextBox\\NumbericTextBox.csproj|solutionrelative:numberictextbox\\numberictextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E36A3F9-6CD1-4D70-AA8D-544E2B6E502E}|MailTextBox\\MailTextBox.csproj|d:\\ide code\\vs\\develop_smartapp\\test_phamhodanghuy\\test_phamhodanghuy\\mailtextbox\\mailtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E36A3F9-6CD1-4D70-AA8D-544E2B6E502E}|MailTextBox\\MailTextBox.csproj|solutionrelative:mailtextbox\\mailtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C92E65-D4B4-4FED-8EE7-2AB3B916E246}|UpperTextBox\\UpperTextBox.csproj|d:\\ide code\\vs\\develop_smartapp\\test_phamhodanghuy\\test_phamhodanghuy\\uppertextbox\\uppertextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C92E65-D4B4-4FED-8EE7-2AB3B916E246}|UpperTextBox\\UpperTextBox.csproj|solutionrelative:uppertextbox\\uppertextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PassTextBox.Designer.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\PassTextBox\\PassTextBox.Designer.cs",
+              "RelativeDocumentMoniker": "PassTextBox\\PassTextBox.Designer.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\PassTextBox\\PassTextBox.Designer.cs",
+              "RelativeToolTip": "PassTextBox\\PassTextBox.Designer.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwBwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:16:22.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PassTextBox.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\PassTextBox\\PassTextBox.cs",
+              "RelativeDocumentMoniker": "PassTextBox\\PassTextBox.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\PassTextBox\\PassTextBox.cs",
+              "RelativeToolTip": "PassTextBox\\PassTextBox.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:10:44.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PassTextBox.cs [Design]",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\PassTextBox\\PassTextBox.cs",
+              "RelativeDocumentMoniker": "PassTextBox\\PassTextBox.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\PassTextBox\\PassTextBox.cs [Design]",
+              "RelativeToolTip": "PassTextBox\\PassTextBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:10:33.308Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserTextBox.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\UserTextBox\\UserTextBox.cs",
+              "RelativeDocumentMoniker": "UserTextBox\\UserTextBox.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\UserTextBox\\UserTextBox.cs",
+              "RelativeToolTip": "UserTextBox\\UserTextBox.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA7wB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:49:51.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MailTextBox.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\MailTextBox\\MailTextBox.cs",
+              "RelativeDocumentMoniker": "MailTextBox\\MailTextBox.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\MailTextBox\\MailTextBox.cs",
+              "RelativeToolTip": "MailTextBox\\MailTextBox.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:46:52.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpperTextBox.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\UpperTextBox\\UpperTextBox.cs",
+              "RelativeDocumentMoniker": "UpperTextBox\\UpperTextBox.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\UpperTextBox\\UpperTextBox.cs",
+              "RelativeToolTip": "UpperTextBox\\UpperTextBox.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:45:27.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NumbericTextBox.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\NumbericTextBox\\NumbericTextBox.cs",
+              "RelativeDocumentMoniker": "NumbericTextBox\\NumbericTextBox.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\NumbericTextBox\\NumbericTextBox.cs",
+              "RelativeToolTip": "NumbericTextBox\\NumbericTextBox.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:33:48.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
