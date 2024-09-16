@@ -15,7 +15,7 @@ namespace MailTextBox
         private ErrorProvider errorProvider;
         public MailTextBox()
         {
-            InitializeComponent();
+            errorProvider = new ErrorProvider();
         }
         protected override void OnLeave(EventArgs e)
         {

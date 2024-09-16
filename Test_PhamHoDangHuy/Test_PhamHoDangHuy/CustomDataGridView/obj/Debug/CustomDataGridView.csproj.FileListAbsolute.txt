@@ -1,0 +1,6 @@
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\CustomDataGridView\bin\Debug\CustomDataGridView.dll
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\CustomDataGridView\bin\Debug\CustomDataGridView.pdb
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\CustomDataGridView\obj\Debug\CustomDataGridView.csproj.AssemblyReference.cache
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\CustomDataGridView\obj\Debug\CustomDataGridView.csproj.CoreCompileInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\CustomDataGridView\obj\Debug\CustomDataGridView.dll
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\CustomDataGridView\obj\Debug\CustomDataGridView.pdb

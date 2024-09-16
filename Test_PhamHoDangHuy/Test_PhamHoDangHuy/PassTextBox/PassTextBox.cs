@@ -16,7 +16,6 @@ namespace PassTextBox
         private ErrorProvider errorProvider;
         public PassTextBox()
         {
-            InitializeComponent();
             errorProvider = new ErrorProvider();
         }
         protected override void OnLeave(EventArgs e)

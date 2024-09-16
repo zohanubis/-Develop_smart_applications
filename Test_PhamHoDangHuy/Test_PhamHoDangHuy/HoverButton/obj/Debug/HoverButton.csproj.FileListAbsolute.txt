@@ -1,0 +1,6 @@
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\HoverButton\bin\Debug\HoverButton.dll
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\HoverButton\bin\Debug\HoverButton.pdb
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\HoverButton\obj\Debug\HoverButton.csproj.AssemblyReference.cache
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\HoverButton\obj\Debug\HoverButton.csproj.CoreCompileInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\HoverButton\obj\Debug\HoverButton.dll
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\HoverButton\obj\Debug\HoverButton.pdb

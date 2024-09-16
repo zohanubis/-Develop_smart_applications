@@ -1,2 +1,6 @@
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\UpperTextBox\bin\Debug\UpperTextBox.dll
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\UpperTextBox\bin\Debug\UpperTextBox.pdb
 D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\UpperTextBox\obj\Debug\UpperTextBox.csproj.AssemblyReference.cache
 D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\UpperTextBox\obj\Debug\UpperTextBox.csproj.CoreCompileInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\UpperTextBox\obj\Debug\UpperTextBox.dll
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\UpperTextBox\obj\Debug\UpperTextBox.pdb

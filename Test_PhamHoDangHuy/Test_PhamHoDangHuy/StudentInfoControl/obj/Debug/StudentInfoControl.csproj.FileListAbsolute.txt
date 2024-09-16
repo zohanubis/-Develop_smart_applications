@@ -1,0 +1,11 @@
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\StudentInfoControl\bin\Debug\StudentInfoControl.dll
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\StudentInfoControl\bin\Debug\StudentInfoControl.pdb
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\StudentInfoControl\bin\Debug\UserTextBox.dll
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\StudentInfoControl\bin\Debug\UserTextBox.pdb
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\StudentInfoControl\obj\Debug\StudentInfoControl.csproj.AssemblyReference.cache
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\StudentInfoControl\obj\Debug\StudentInfoControl.StudentInfoControl.resources
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\StudentInfoControl\obj\Debug\StudentInfoControl.csproj.GenerateResource.cache
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\StudentInfoControl\obj\Debug\StudentInfoControl.csproj.CoreCompileInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\StudentInfoControl\obj\Debug\StudentI.EA176673.Up2Date
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\StudentInfoControl\obj\Debug\StudentInfoControl.dll
+D:\IDE CODE\VS\Develop_SmartApp\Test_PhamHoDangHuy\Test_PhamHoDangHuy\StudentInfoControl\obj\Debug\StudentInfoControl.pdb

@@ -16,7 +16,6 @@ namespace UserTextBox
         private ErrorProvider _errorProvider;
         public UserTextBox()
         {
-            InitializeComponent();
             _errorProvider = new ErrorProvider();
         }
         protected override void OnLeave(EventArgs e)
