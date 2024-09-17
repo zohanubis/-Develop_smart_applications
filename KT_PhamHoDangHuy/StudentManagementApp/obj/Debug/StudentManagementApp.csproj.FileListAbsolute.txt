@@ -1,0 +1,14 @@
+D:\IDE CODE\VS\Develop_SmartApp\KT_PhamHoDangHuy\StudentManagementApp\bin\Debug\StudentManagementApp.exe.config
+D:\IDE CODE\VS\Develop_SmartApp\KT_PhamHoDangHuy\StudentManagementApp\bin\Debug\StudentManagementApp.exe
+D:\IDE CODE\VS\Develop_SmartApp\KT_PhamHoDangHuy\StudentManagementApp\bin\Debug\StudentManagementApp.pdb
+D:\IDE CODE\VS\Develop_SmartApp\KT_PhamHoDangHuy\StudentManagementApp\bin\Debug\CustomControls.dll
+D:\IDE CODE\VS\Develop_SmartApp\KT_PhamHoDangHuy\StudentManagementApp\bin\Debug\ThuVien.dll
+D:\IDE CODE\VS\Develop_SmartApp\KT_PhamHoDangHuy\StudentManagementApp\bin\Debug\CustomControls.pdb
+D:\IDE CODE\VS\Develop_SmartApp\KT_PhamHoDangHuy\StudentManagementApp\bin\Debug\ThuVien.pdb
+D:\IDE CODE\VS\Develop_SmartApp\KT_PhamHoDangHuy\StudentManagementApp\obj\Debug\StudentManagementApp.csproj.AssemblyReference.cache
+D:\IDE CODE\VS\Develop_SmartApp\KT_PhamHoDangHuy\StudentManagementApp\obj\Debug\StudentManagementApp.Properties.Resources.resources
+D:\IDE CODE\VS\Develop_SmartApp\KT_PhamHoDangHuy\StudentManagementApp\obj\Debug\StudentManagementApp.csproj.GenerateResource.cache
+D:\IDE CODE\VS\Develop_SmartApp\KT_PhamHoDangHuy\StudentManagementApp\obj\Debug\StudentManagementApp.csproj.CoreCompileInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\KT_PhamHoDangHuy\StudentManagementApp\obj\Debug\StudentM.507EE403.Up2Date
+D:\IDE CODE\VS\Develop_SmartApp\KT_PhamHoDangHuy\StudentManagementApp\obj\Debug\StudentManagementApp.exe
+D:\IDE CODE\VS\Develop_SmartApp\KT_PhamHoDangHuy\StudentManagementApp\obj\Debug\StudentManagementApp.pdb

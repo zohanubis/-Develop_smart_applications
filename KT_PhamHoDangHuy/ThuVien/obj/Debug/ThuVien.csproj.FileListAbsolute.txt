@@ -1,0 +1,6 @@
+D:\IDE CODE\VS\Develop_SmartApp\KT_PhamHoDangHuy\ThuVien\bin\Debug\ThuVien.dll
+D:\IDE CODE\VS\Develop_SmartApp\KT_PhamHoDangHuy\ThuVien\bin\Debug\ThuVien.pdb
+D:\IDE CODE\VS\Develop_SmartApp\KT_PhamHoDangHuy\ThuVien\obj\Debug\ThuVien.csproj.AssemblyReference.cache
+D:\IDE CODE\VS\Develop_SmartApp\KT_PhamHoDangHuy\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\KT_PhamHoDangHuy\ThuVien\obj\Debug\ThuVien.dll
+D:\IDE CODE\VS\Develop_SmartApp\KT_PhamHoDangHuy\ThuVien\obj\Debug\ThuVien.pdb

@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_PhamHoDangHuy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2267082-ED03-4E75-B2BC-5A7AF2441D7E}|StudentManagementApp\\StudentManagementApp.csproj|d:\\ide code\\vs\\develop_smartapp\\kt_phamhodanghuy\\studentmanagementapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2267082-ED03-4E75-B2BC-5A7AF2441D7E}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:studentmanagementapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2267082-ED03-4E75-B2BC-5A7AF2441D7E}|StudentManagementApp\\StudentManagementApp.csproj|d:\\ide code\\vs\\develop_smartapp\\kt_phamhodanghuy\\studentmanagementapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2267082-ED03-4E75-B2BC-5A7AF2441D7E}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:studentmanagementapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2267082-ED03-4E75-B2BC-5A7AF2441D7E}|StudentManagementApp\\StudentManagementApp.csproj|d:\\ide code\\vs\\develop_smartapp\\kt_phamhodanghuy\\studentmanagementapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2267082-ED03-4E75-B2BC-5A7AF2441D7E}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:studentmanagementapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE83B422-3C08-4B84-8F46-59DD95A5025A}|KT_PhamHoDangHuy\\KT_PhamHoDangHuy.csproj|d:\\ide code\\vs\\develop_smartapp\\kt_phamhodanghuy\\kt_phamhodanghuy\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE83B422-3C08-4B84-8F46-59DD95A5025A}|KT_PhamHoDangHuy\\KT_PhamHoDangHuy.csproj|solutionrelative:kt_phamhodanghuy\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE83B422-3C08-4B84-8F46-59DD95A5025A}|KT_PhamHoDangHuy\\KT_PhamHoDangHuy.csproj|d:\\ide code\\vs\\develop_smartapp\\kt_phamhodanghuy\\kt_phamhodanghuy\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE83B422-3C08-4B84-8F46-59DD95A5025A}|KT_PhamHoDangHuy\\KT_PhamHoDangHuy.csproj|solutionrelative:kt_phamhodanghuy\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E984A4F-A0A8-470F-AD4D-1393544D11A1}|ThuVien\\ThuVien.csproj|d:\\ide code\\vs\\develop_smartapp\\kt_phamhodanghuy\\thuvien\\codegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E984A4F-A0A8-470F-AD4D-1393544D11A1}|ThuVien\\ThuVien.csproj|solutionrelative:thuvien\\codegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E984A4F-A0A8-470F-AD4D-1393544D11A1}|ThuVien\\ThuVien.csproj|d:\\ide code\\vs\\develop_smartapp\\kt_phamhodanghuy\\thuvien\\passwordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E984A4F-A0A8-470F-AD4D-1393544D11A1}|ThuVien\\ThuVien.csproj|solutionrelative:thuvien\\passwordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454862BF-0532-4FD9-8C93-390F0D958B15}|CustomControls\\CustomControls.csproj|d:\\ide code\\vs\\develop_smartapp\\kt_phamhodanghuy\\customcontrols\\masinhtudong_textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{454862BF-0532-4FD9-8C93-390F0D958B15}|CustomControls\\CustomControls.csproj|solutionrelative:customcontrols\\masinhtudong_textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454862BF-0532-4FD9-8C93-390F0D958B15}|CustomControls\\CustomControls.csproj|d:\\ide code\\vs\\develop_smartapp\\kt_phamhodanghuy\\customcontrols\\masinhtudong_textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{454862BF-0532-4FD9-8C93-390F0D958B15}|CustomControls\\CustomControls.csproj|solutionrelative:customcontrols\\masinhtudong_textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454862BF-0532-4FD9-8C93-390F0D958B15}|CustomControls\\CustomControls.csproj|d:\\ide code\\vs\\develop_smartapp\\kt_phamhodanghuy\\customcontrols\\masinhtudong_textbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{454862BF-0532-4FD9-8C93-390F0D958B15}|CustomControls\\CustomControls.csproj|solutionrelative:customcontrols\\masinhtudong_textbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_PhamHoDangHuy\\StudentManagementApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\MainForm.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_PhamHoDangHuy\\StudentManagementApp\\MainForm.cs",
+              "RelativeToolTip": "StudentManagementApp\\MainForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:21:56.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_PhamHoDangHuy\\StudentManagementApp\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\MainForm.Designer.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_PhamHoDangHuy\\StudentManagementApp\\MainForm.Designer.cs",
+              "RelativeToolTip": "StudentManagementApp\\MainForm.Designer.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAqwDkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:21:03.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_PhamHoDangHuy\\StudentManagementApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\MainForm.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_PhamHoDangHuy\\StudentManagementApp\\MainForm.cs [Design]",
+              "RelativeToolTip": "StudentManagementApp\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:20:50.572Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_PhamHoDangHuy\\KT_PhamHoDangHuy\\MainForm.cs",
+              "RelativeDocumentMoniker": "KT_PhamHoDangHuy\\MainForm.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_PhamHoDangHuy\\KT_PhamHoDangHuy\\MainForm.cs",
+              "RelativeToolTip": "KT_PhamHoDangHuy\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:15:27.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CodeGenerator.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_PhamHoDangHuy\\ThuVien\\CodeGenerator.cs",
+              "RelativeDocumentMoniker": "ThuVien\\CodeGenerator.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_PhamHoDangHuy\\ThuVien\\CodeGenerator.cs",
+              "RelativeToolTip": "ThuVien\\CodeGenerator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:13:41.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PasswordValidator.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_PhamHoDangHuy\\ThuVien\\PasswordValidator.cs",
+              "RelativeDocumentMoniker": "ThuVien\\PasswordValidator.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_PhamHoDangHuy\\ThuVien\\PasswordValidator.cs",
+              "RelativeToolTip": "ThuVien\\PasswordValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:11:52.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MaSinhTuDong_Textbox.Designer.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_PhamHoDangHuy\\CustomControls\\MaSinhTuDong_Textbox.Designer.cs",
+              "RelativeDocumentMoniker": "CustomControls\\MaSinhTuDong_Textbox.Designer.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_PhamHoDangHuy\\CustomControls\\MaSinhTuDong_Textbox.Designer.cs",
+              "RelativeToolTip": "CustomControls\\MaSinhTuDong_Textbox.Designer.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:07:57.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MaSinhTuDong_Textbox.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_PhamHoDangHuy\\CustomControls\\MaSinhTuDong_Textbox.cs",
+              "RelativeDocumentMoniker": "CustomControls\\MaSinhTuDong_Textbox.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_PhamHoDangHuy\\CustomControls\\MaSinhTuDong_Textbox.cs",
+              "RelativeToolTip": "CustomControls\\MaSinhTuDong_Textbox.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:06:50.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MaSinhTuDong_Textbox.cs [Design]",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_PhamHoDangHuy\\CustomControls\\MaSinhTuDong_Textbox.cs",
+              "RelativeDocumentMoniker": "CustomControls\\MaSinhTuDong_Textbox.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_PhamHoDangHuy\\CustomControls\\MaSinhTuDong_Textbox.cs [Design]",
+              "RelativeToolTip": "CustomControls\\MaSinhTuDong_Textbox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:06:47.237Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_PhamHoDangHuy\\KT_PhamHoDangHuy\\MainForm.cs",
+              "RelativeDocumentMoniker": "KT_PhamHoDangHuy\\MainForm.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_PhamHoDangHuy\\KT_PhamHoDangHuy\\MainForm.cs [Design]",
+              "RelativeToolTip": "KT_PhamHoDangHuy\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:06:08.126Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
