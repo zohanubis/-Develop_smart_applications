@@ -20,7 +20,6 @@ namespace Test_PhamHoDangHuy.GUI
             this.editToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.statusStrip = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabel = new System.Windows.Forms.ToolStripStatusLabel();
-            this.numbericTextBox1 = new NumbericTextBox.NumbericTextBox();
             this.menuStrip.SuspendLayout();
             this.statusStrip.SuspendLayout();
             this.SuspendLayout();
@@ -73,17 +72,9 @@ namespace Test_PhamHoDangHuy.GUI
             this.toolStripStatusLabel.Size = new System.Drawing.Size(160, 20);
             this.toolStripStatusLabel.Text = "Xin chào người dùng ...";
             // 
-            // numbericTextBox1
-            // 
-            this.numbericTextBox1.Location = new System.Drawing.Point(115, 47);
-            this.numbericTextBox1.Name = "numbericTextBox1";
-            this.numbericTextBox1.Size = new System.Drawing.Size(100, 22);
-            this.numbericTextBox1.TabIndex = 2;
-            // 
             // MainForm
             // 
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.numbericTextBox1);
             this.Controls.Add(this.statusStrip);
             this.Controls.Add(this.menuStrip);
             this.MainMenuStrip = this.menuStrip;
@@ -98,7 +89,5 @@ namespace Test_PhamHoDangHuy.GUI
             this.PerformLayout();
 
         }
-
-        private NumbericTextBox.NumbericTextBox numbericTextBox1;
     }
 }

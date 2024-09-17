@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFC6CA40-C37F-4F2D-972C-233D41084DD1}|StudentManagementApp\\StudentManagementApp.csproj|d:\\ide code\\vs\\develop_smartapp\\test_phamhodanghuy\\test_phamhodanghuy\\studentmanagementapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFC6CA40-C37F-4F2D-972C-233D41084DD1}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:studentmanagementapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EFC6CA40-C37F-4F2D-972C-233D41084DD1}|StudentManagementApp\\StudentManagementApp.csproj|d:\\ide code\\vs\\develop_smartapp\\test_phamhodanghuy\\test_phamhodanghuy\\studentmanagementapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFC6CA40-C37F-4F2D-972C-233D41084DD1}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:studentmanagementapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,63 +11,7 @@
       "RelativeMoniker": "D:0:0:{772A537B-8855-4349-9844-5B250E4B6781}|StudentInfoControl\\StudentInfoControl.csproj|solutionrelative:studentinfocontrol\\studentinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFC6CA40-C37F-4F2D-972C-233D41084DD1}|StudentManagementApp\\StudentManagementApp.csproj|d:\\ide code\\vs\\develop_smartapp\\test_phamhodanghuy\\test_phamhodanghuy\\studentmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFC6CA40-C37F-4F2D-972C-233D41084DD1}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:studentmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{772A537B-8855-4349-9844-5B250E4B6781}|StudentInfoControl\\StudentInfoControl.csproj|d:\\ide code\\vs\\develop_smartapp\\test_phamhodanghuy\\test_phamhodanghuy\\studentinfocontrol\\studentinfocontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{772A537B-8855-4349-9844-5B250E4B6781}|StudentInfoControl\\StudentInfoControl.csproj|solutionrelative:studentinfocontrol\\studentinfocontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFC6CA40-C37F-4F2D-972C-233D41084DD1}|StudentManagementApp\\StudentManagementApp.csproj|d:\\ide code\\vs\\develop_smartapp\\test_phamhodanghuy\\test_phamhodanghuy\\studentmanagementapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EFC6CA40-C37F-4F2D-972C-233D41084DD1}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:studentmanagementapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{772A537B-8855-4349-9844-5B250E4B6781}|StudentInfoControl\\StudentInfoControl.csproj|d:\\ide code\\vs\\develop_smartapp\\test_phamhodanghuy\\test_phamhodanghuy\\studentinfocontrol\\studentinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{772A537B-8855-4349-9844-5B250E4B6781}|StudentInfoControl\\StudentInfoControl.csproj|solutionrelative:studentinfocontrol\\studentinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9876672-D617-454D-ADF3-CA13A2AC51A8}|Test_PhamHoDangHuy\\Test_PhamHoDangHuy.csproj|d:\\ide code\\vs\\develop_smartapp\\test_phamhodanghuy\\test_phamhodanghuy\\test_phamhodanghuy\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F9876672-D617-454D-ADF3-CA13A2AC51A8}|Test_PhamHoDangHuy\\Test_PhamHoDangHuy.csproj|solutionrelative:test_phamhodanghuy\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{942B905B-E453-4D99-9B1B-A50A0444B9D6}|UserTextBox\\UserTextBox.csproj|d:\\ide code\\vs\\develop_smartapp\\test_phamhodanghuy\\test_phamhodanghuy\\usertextbox\\usertextbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{942B905B-E453-4D99-9B1B-A50A0444B9D6}|UserTextBox\\UserTextBox.csproj|solutionrelative:usertextbox\\usertextbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{552780E6-9F86-4B1F-B14B-2E84D67CBB32}|HoverButton\\HoverButton.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\hoverbutton\\hoverbutton.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{552780E6-9F86-4B1F-B14B-2E84D67CBB32}|HoverButton\\HoverButton.csproj|solutionrelative:hoverbutton\\hoverbutton.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E36A3F9-6CD1-4D70-AA8D-544E2B6E502E}|MailTextBox\\MailTextBox.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\mailtextbox\\mailtextbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E36A3F9-6CD1-4D70-AA8D-544E2B6E502E}|MailTextBox\\MailTextBox.csproj|solutionrelative:mailtextbox\\mailtextbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3C92E65-D4B4-4FED-8EE7-2AB3B916E246}|UpperTextBox\\UpperTextBox.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\uppertextbox\\uppertextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3C92E65-D4B4-4FED-8EE7-2AB3B916E246}|UpperTextBox\\UpperTextBox.csproj|solutionrelative:uppertextbox\\uppertextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E36A3F9-6CD1-4D70-AA8D-544E2B6E502E}|MailTextBox\\MailTextBox.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\mailtextbox\\mailtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E36A3F9-6CD1-4D70-AA8D-544E2B6E502E}|MailTextBox\\MailTextBox.csproj|solutionrelative:mailtextbox\\mailtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{942B905B-E453-4D99-9B1B-A50A0444B9D6}|UserTextBox\\UserTextBox.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\usertextbox\\usertextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{942B905B-E453-4D99-9B1B-A50A0444B9D6}|UserTextBox\\UserTextBox.csproj|solutionrelative:usertextbox\\usertextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AD7CCC0-8944-4C90-802D-147605E99F19}|CustomDataGridView\\CustomDataGridView.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\customdatagridview\\customdatagridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AD7CCC0-8944-4C90-802D-147605E99F19}|CustomDataGridView\\CustomDataGridView.csproj|solutionrelative:customdatagridview\\customdatagridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{552780E6-9F86-4B1F-B14B-2E84D67CBB32}|HoverButton\\HoverButton.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\hoverbutton\\hoverbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{552780E6-9F86-4B1F-B14B-2E84D67CBB32}|HoverButton\\HoverButton.csproj|solutionrelative:hoverbutton\\hoverbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AD7CCC0-8944-4C90-802D-147605E99F19}|CustomDataGridView\\CustomDataGridView.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\customdatagridview\\customdatagridview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AD7CCC0-8944-4C90-802D-147605E99F19}|CustomDataGridView\\CustomDataGridView.csproj|solutionrelative:customdatagridview\\customdatagridview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CFD97CD-AFB9-4AB7-9D70-4BE4926C57D2}|NumbericTextBox\\NumbericTextBox.csproj|D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\numberictextbox\\numberictextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3CFD97CD-AFB9-4AB7-9D70-4BE4926C57D2}|NumbericTextBox\\NumbericTextBox.csproj|d:\\ide code\\vs\\develop_smartapp\\test_phamhodanghuy\\test_phamhodanghuy\\numberictextbox\\numberictextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CFD97CD-AFB9-4AB7-9D70-4BE4926C57D2}|NumbericTextBox\\NumbericTextBox.csproj|solutionrelative:numberictextbox\\numberictextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -87,224 +27,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\StudentManagementApp\\MainForm.Designer.cs",
-              "RelativeDocumentMoniker": "StudentManagementApp\\MainForm.Designer.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\StudentManagementApp\\MainForm.Designer.cs",
-              "RelativeToolTip": "StudentManagementApp\\MainForm.Designer.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAswAoAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T16:35:03.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "MainForm.cs",
               "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\StudentManagementApp\\MainForm.cs",
               "RelativeDocumentMoniker": "StudentManagementApp\\MainForm.cs",
               "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\StudentManagementApp\\MainForm.cs",
               "RelativeToolTip": "StudentManagementApp\\MainForm.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAIwBoAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAB9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T16:34:01.163Z",
+              "WhenOpened": "2024-09-17T04:58:50.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "StudentInfoControl.cs",
               "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\StudentInfoControl\\StudentInfoControl.cs",
               "RelativeDocumentMoniker": "StudentInfoControl\\StudentInfoControl.cs",
               "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\StudentInfoControl\\StudentInfoControl.cs",
               "RelativeToolTip": "StudentInfoControl\\StudentInfoControl.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAIwCoAAAAIAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T16:20:34.951Z",
+              "WhenOpened": "2024-09-17T04:50:24.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\StudentManagementApp\\Program.cs",
-              "RelativeDocumentMoniker": "StudentManagementApp\\Program.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\StudentManagementApp\\Program.cs",
-              "RelativeToolTip": "StudentManagementApp\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T16:32:06.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StudentInfoControl.Designer.cs",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\StudentInfoControl\\StudentInfoControl.Designer.cs",
-              "RelativeDocumentMoniker": "StudentInfoControl\\StudentInfoControl.Designer.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\StudentInfoControl\\StudentInfoControl.Designer.cs",
-              "RelativeToolTip": "StudentInfoControl\\StudentInfoControl.Designer.cs",
-              "ViewState": "AQIAAHQAAAAAAAAAAAAewH8AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T16:24:22.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\StudentManagementApp\\MainForm.cs",
-              "RelativeDocumentMoniker": "StudentManagementApp\\MainForm.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\StudentManagementApp\\MainForm.cs [Design]",
-              "RelativeToolTip": "StudentManagementApp\\MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T16:32:00.726Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StudentInfoControl.cs [Design]",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\StudentInfoControl\\StudentInfoControl.cs",
-              "RelativeDocumentMoniker": "StudentInfoControl\\StudentInfoControl.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\StudentInfoControl\\StudentInfoControl.cs [Design]",
-              "RelativeToolTip": "StudentInfoControl\\StudentInfoControl.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T16:20:25.706Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmDangNhap.cs [Design]",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\GUI\\frmDangNhap.cs",
-              "RelativeDocumentMoniker": "Test_PhamHoDangHuy\\GUI\\frmDangNhap.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\GUI\\frmDangNhap.cs [Design]",
-              "RelativeToolTip": "Test_PhamHoDangHuy\\GUI\\frmDangNhap.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T16:17:15.783Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserTextBox.Designer.cs",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\UserTextBox\\UserTextBox.Designer.cs",
-              "RelativeDocumentMoniker": "UserTextBox\\UserTextBox.Designer.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\UserTextBox\\UserTextBox.Designer.cs",
-              "RelativeToolTip": "UserTextBox\\UserTextBox.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T14:43:10.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HoverButton.Designer.cs",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\HoverButton\\HoverButton.Designer.cs",
-              "RelativeDocumentMoniker": "HoverButton\\HoverButton.Designer.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\HoverButton\\HoverButton.Designer.cs",
-              "RelativeToolTip": "HoverButton\\HoverButton.Designer.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAwwB8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T14:42:48.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MailTextBox.Designer.cs",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\MailTextBox\\MailTextBox.Designer.cs",
-              "RelativeDocumentMoniker": "MailTextBox\\MailTextBox.Designer.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\MailTextBox\\MailTextBox.Designer.cs",
-              "RelativeToolTip": "MailTextBox\\MailTextBox.Designer.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAwwB8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T14:42:43.623Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HoverButton.cs",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\HoverButton\\HoverButton.cs",
-              "RelativeDocumentMoniker": "HoverButton\\HoverButton.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\HoverButton\\HoverButton.cs",
-              "RelativeToolTip": "HoverButton\\HoverButton.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T14:40:01.068Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CustomDataGridView.Designer.cs",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\CustomDataGridView\\CustomDataGridView.Designer.cs",
-              "RelativeDocumentMoniker": "CustomDataGridView\\CustomDataGridView.Designer.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\CustomDataGridView\\CustomDataGridView.Designer.cs",
-              "RelativeToolTip": "CustomDataGridView\\CustomDataGridView.Designer.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAwwB4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T14:39:07.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CustomDataGridView.cs",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\CustomDataGridView\\CustomDataGridView.cs",
-              "RelativeDocumentMoniker": "CustomDataGridView\\CustomDataGridView.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\CustomDataGridView\\CustomDataGridView.cs",
-              "RelativeToolTip": "CustomDataGridView\\CustomDataGridView.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T14:37:24.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserTextBox.cs",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\UserTextBox\\UserTextBox.cs",
-              "RelativeDocumentMoniker": "UserTextBox\\UserTextBox.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\UserTextBox\\UserTextBox.cs",
-              "RelativeToolTip": "UserTextBox\\UserTextBox.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAgwBIAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T13:49:51.66Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MailTextBox.cs",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\MailTextBox\\MailTextBox.cs",
-              "RelativeDocumentMoniker": "MailTextBox\\MailTextBox.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\MailTextBox\\MailTextBox.cs",
-              "RelativeToolTip": "MailTextBox\\MailTextBox.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T13:46:52.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UpperTextBox.cs",
-              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\UpperTextBox\\UpperTextBox.cs",
-              "RelativeDocumentMoniker": "UpperTextBox\\UpperTextBox.cs",
-              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\UpperTextBox\\UpperTextBox.cs",
-              "RelativeToolTip": "UpperTextBox\\UpperTextBox.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T13:45:27.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 2,
               "Title": "NumbericTextBox.cs",
               "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\NumbericTextBox\\NumbericTextBox.cs",
               "RelativeDocumentMoniker": "NumbericTextBox\\NumbericTextBox.cs",
               "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\Test_PhamHoDangHuy\\Test_PhamHoDangHuy\\NumbericTextBox\\NumbericTextBox.cs",
               "RelativeToolTip": "NumbericTextBox\\NumbericTextBox.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T13:33:48.675Z"
+              "WhenOpened": "2024-09-17T03:37:54.115Z",
+              "EditorCaption": ""
             }
           ]
         }
