@@ -1,0 +1,15 @@
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\B45_XayDungModule\obj\Debug\B45_XayDungModule.csproj.AssemblyReference.cache
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\B45_XayDungModule\obj\Debug\B45_XayDungModule.frmLogin.resources
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\B45_XayDungModule\obj\Debug\B45_XayDungModule.Properties.Resources.resources
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\B45_XayDungModule\obj\Debug\B45_XayDungModule.csproj.GenerateResource.cache
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\B45_XayDungModule\obj\Debug\B45_XayDungModule.csproj.CoreCompileInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\B45_XayDungModule\bin\Debug\B45_XayDungModule.exe.config
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\B45_XayDungModule\bin\Debug\B45_XayDungModule.exe
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\B45_XayDungModule\bin\Debug\B45_XayDungModule.pdb
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\B45_XayDungModule\bin\Debug\LoginControl.dll
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\B45_XayDungModule\bin\Debug\LoginControl.pdb
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\B45_XayDungModule\obj\Debug\B45_XayD.5D915543.Up2Date
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\B45_XayDungModule\obj\Debug\B45_XayDungModule.exe
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\B45_XayDungModule\obj\Debug\B45_XayDungModule.pdb
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\B45_XayDungModule\obj\Debug\B45_XayDungModule.frmMain.resources
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\B45_XayDungModule\obj\Debug\B45_XayDungModule.frmNguoiDung.resources

@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IDE CODE\\VS\\Develop_SmartApp\\B45_XayDungModule\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70C6A2E5-9C94-4926-A5B6-C510830D4BAF}|B45_XayDungModule\\B45_XayDungModule.csproj|d:\\ide code\\vs\\develop_smartapp\\b45_xaydungmodule\\b45_xaydungmodule\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C6A2E5-9C94-4926-A5B6-C510830D4BAF}|B45_XayDungModule\\B45_XayDungModule.csproj|solutionrelative:b45_xaydungmodule\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C6A2E5-9C94-4926-A5B6-C510830D4BAF}|B45_XayDungModule\\B45_XayDungModule.csproj|d:\\ide code\\vs\\develop_smartapp\\b45_xaydungmodule\\b45_xaydungmodule\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70C6A2E5-9C94-4926-A5B6-C510830D4BAF}|B45_XayDungModule\\B45_XayDungModule.csproj|solutionrelative:b45_xaydungmodule\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C6A2E5-9C94-4926-A5B6-C510830D4BAF}|B45_XayDungModule\\B45_XayDungModule.csproj|d:\\ide code\\vs\\develop_smartapp\\b45_xaydungmodule\\b45_xaydungmodule\\frmcauhinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C6A2E5-9C94-4926-A5B6-C510830D4BAF}|B45_XayDungModule\\B45_XayDungModule.csproj|solutionrelative:b45_xaydungmodule\\frmcauhinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C6A2E5-9C94-4926-A5B6-C510830D4BAF}|B45_XayDungModule\\B45_XayDungModule.csproj|d:\\ide code\\vs\\develop_smartapp\\b45_xaydungmodule\\b45_xaydungmodule\\frmcauhinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C6A2E5-9C94-4926-A5B6-C510830D4BAF}|B45_XayDungModule\\B45_XayDungModule.csproj|solutionrelative:b45_xaydungmodule\\frmcauhinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C6A2E5-9C94-4926-A5B6-C510830D4BAF}|B45_XayDungModule\\B45_XayDungModule.csproj|d:\\ide code\\vs\\develop_smartapp\\b45_xaydungmodule\\b45_xaydungmodule\\frmnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70C6A2E5-9C94-4926-A5B6-C510830D4BAF}|B45_XayDungModule\\B45_XayDungModule.csproj|solutionrelative:b45_xaydungmodule\\frmnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C6A2E5-9C94-4926-A5B6-C510830D4BAF}|B45_XayDungModule\\B45_XayDungModule.csproj|d:\\ide code\\vs\\develop_smartapp\\b45_xaydungmodule\\b45_xaydungmodule\\frmcauhinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70C6A2E5-9C94-4926-A5B6-C510830D4BAF}|B45_XayDungModule\\B45_XayDungModule.csproj|solutionrelative:b45_xaydungmodule\\frmcauhinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C6A2E5-9C94-4926-A5B6-C510830D4BAF}|B45_XayDungModule\\B45_XayDungModule.csproj|d:\\ide code\\vs\\develop_smartapp\\b45_xaydungmodule\\b45_xaydungmodule\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70C6A2E5-9C94-4926-A5B6-C510830D4BAF}|B45_XayDungModule\\B45_XayDungModule.csproj|solutionrelative:b45_xaydungmodule\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\B45_XayDungModule\\B45_XayDungModule\\frmMain.cs",
+              "RelativeDocumentMoniker": "B45_XayDungModule\\frmMain.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\B45_XayDungModule\\B45_XayDungModule\\frmMain.cs",
+              "RelativeToolTip": "B45_XayDungModule\\frmMain.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:06:02.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\B45_XayDungModule\\B45_XayDungModule\\frmMain.cs",
+              "RelativeDocumentMoniker": "B45_XayDungModule\\frmMain.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\B45_XayDungModule\\B45_XayDungModule\\frmMain.cs [Design]",
+              "RelativeToolTip": "B45_XayDungModule\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:16:54.736Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmNguoiDung.cs [Design]",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\B45_XayDungModule\\B45_XayDungModule\\frmNguoiDung.cs",
+              "RelativeDocumentMoniker": "B45_XayDungModule\\frmNguoiDung.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\B45_XayDungModule\\B45_XayDungModule\\frmNguoiDung.cs [Design]",
+              "RelativeToolTip": "B45_XayDungModule\\frmNguoiDung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:12:25.773Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmCauHinh.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\B45_XayDungModule\\B45_XayDungModule\\frmCauHinh.cs",
+              "RelativeDocumentMoniker": "B45_XayDungModule\\frmCauHinh.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\B45_XayDungModule\\B45_XayDungModule\\frmCauHinh.cs",
+              "RelativeToolTip": "B45_XayDungModule\\frmCauHinh.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwCIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:09:16.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\B45_XayDungModule\\B45_XayDungModule\\frmLogin.cs",
+              "RelativeDocumentMoniker": "B45_XayDungModule\\frmLogin.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\B45_XayDungModule\\B45_XayDungModule\\frmLogin.cs [Design]",
+              "RelativeToolTip": "B45_XayDungModule\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:09:01.886Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCauHinh.Designer.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\B45_XayDungModule\\B45_XayDungModule\\frmCauHinh.Designer.cs",
+              "RelativeDocumentMoniker": "B45_XayDungModule\\frmCauHinh.Designer.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\B45_XayDungModule\\B45_XayDungModule\\frmCauHinh.Designer.cs",
+              "RelativeToolTip": "B45_XayDungModule\\frmCauHinh.Designer.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAuwGsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:08:48.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmCauHinh.cs [Design]",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\B45_XayDungModule\\B45_XayDungModule\\frmCauHinh.cs",
+              "RelativeDocumentMoniker": "B45_XayDungModule\\frmCauHinh.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\B45_XayDungModule\\B45_XayDungModule\\frmCauHinh.cs [Design]",
+              "RelativeToolTip": "B45_XayDungModule\\frmCauHinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:08:11.526Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

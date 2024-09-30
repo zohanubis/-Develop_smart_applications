@@ -1,0 +1,8 @@
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\LoginControl\bin\Debug\LoginControl.dll
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\LoginControl\bin\Debug\LoginControl.pdb
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\LoginControl\obj\Debug\LoginControl.csproj.AssemblyReference.cache
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\LoginControl\obj\Debug\LoginControl.LoginControl.resources
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\LoginControl\obj\Debug\LoginControl.csproj.GenerateResource.cache
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\LoginControl\obj\Debug\LoginControl.csproj.CoreCompileInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\LoginControl\obj\Debug\LoginControl.dll
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\LoginControl\obj\Debug\LoginControl.pdb
