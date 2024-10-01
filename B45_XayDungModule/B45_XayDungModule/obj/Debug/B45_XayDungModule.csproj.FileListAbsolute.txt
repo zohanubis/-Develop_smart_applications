@@ -13,3 +13,4 @@ D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\B45_XayDungModule\obj\Debug\B4
 D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\B45_XayDungModule\obj\Debug\B45_XayDungModule.pdb
 D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\B45_XayDungModule\obj\Debug\B45_XayDungModule.frmMain.resources
 D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\B45_XayDungModule\obj\Debug\B45_XayDungModule.frmNguoiDung.resources
+D:\IDE CODE\VS\Develop_SmartApp\B45_XayDungModule\B45_XayDungModule\obj\Debug\B45_XayDungModule.frmThemNguoiDungVaoNhom.resources

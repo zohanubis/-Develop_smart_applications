@@ -35,12 +35,13 @@ namespace B45_XayDungModule
 
         private void MenuItemUserGroup_Click(object sender, EventArgs e)
         {
-            throw new NotImplementedException();
         }
 
         private void MenuItemAddUserToGroup_Click(object sender, EventArgs e)
         {
-            throw new NotImplementedException();
+            frmThemNguoiDungVaoNhom frm = new frmThemNguoiDungVaoNhom();
+            frm.MdiParent = this;
+            frm.Show();
         }
     }
 }
