@@ -1,0 +1,15 @@
+D:\1LuuDuLieuSV\PhamHoDangHuy\B7_DaTang\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\1LuuDuLieuSV\PhamHoDangHuy\B7_DaTang\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\1LuuDuLieuSV\PhamHoDangHuy\B7_DaTang\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\1LuuDuLieuSV\PhamHoDangHuy\B7_DaTang\GUI\bin\Debug\GUI.exe.config
+D:\1LuuDuLieuSV\PhamHoDangHuy\B7_DaTang\GUI\bin\Debug\GUI.exe
+D:\1LuuDuLieuSV\PhamHoDangHuy\B7_DaTang\GUI\bin\Debug\GUI.pdb
+D:\1LuuDuLieuSV\PhamHoDangHuy\B7_DaTang\GUI\bin\Debug\BLL.dll
+D:\1LuuDuLieuSV\PhamHoDangHuy\B7_DaTang\GUI\bin\Debug\DTO.dll
+D:\1LuuDuLieuSV\PhamHoDangHuy\B7_DaTang\GUI\bin\Debug\DAL.dll
+D:\1LuuDuLieuSV\PhamHoDangHuy\B7_DaTang\GUI\bin\Debug\BLL.pdb
+D:\1LuuDuLieuSV\PhamHoDangHuy\B7_DaTang\GUI\bin\Debug\DTO.pdb
+D:\1LuuDuLieuSV\PhamHoDangHuy\B7_DaTang\GUI\bin\Debug\DAL.pdb
+D:\1LuuDuLieuSV\PhamHoDangHuy\B7_DaTang\GUI\obj\Debug\GUI.exe
+D:\1LuuDuLieuSV\PhamHoDangHuy\B7_DaTang\GUI\obj\Debug\GUI.pdb
+D:\1LuuDuLieuSV\PhamHoDangHuy\B7_DaTang\GUI\obj\Debug\GUI.frmDiem.resources
