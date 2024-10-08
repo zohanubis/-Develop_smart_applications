@@ -17,6 +17,7 @@ namespace LoginControl
 
         public string Cnn { get => cnn; set => cnn = value; }
 
+
         public event EventHandler LoginSuccessful;
         public event EventHandler LoginCancelled;
 
