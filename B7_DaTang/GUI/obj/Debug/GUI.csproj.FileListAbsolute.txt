@@ -13,3 +13,21 @@ D:\1LuuDuLieuSV\PhamHoDangHuy\B7_DaTang\GUI\bin\Debug\DAL.pdb
 D:\1LuuDuLieuSV\PhamHoDangHuy\B7_DaTang\GUI\obj\Debug\GUI.exe
 D:\1LuuDuLieuSV\PhamHoDangHuy\B7_DaTang\GUI\obj\Debug\GUI.pdb
 D:\1LuuDuLieuSV\PhamHoDangHuy\B7_DaTang\GUI\obj\Debug\GUI.frmDiem.resources
+D:\IDE CODE\VS\Develop_SmartApp\B7_DaTang\GUI\bin\Debug\GUI.exe.config
+D:\IDE CODE\VS\Develop_SmartApp\B7_DaTang\GUI\bin\Debug\GUI.exe
+D:\IDE CODE\VS\Develop_SmartApp\B7_DaTang\GUI\bin\Debug\GUI.pdb
+D:\IDE CODE\VS\Develop_SmartApp\B7_DaTang\GUI\bin\Debug\BLL.dll
+D:\IDE CODE\VS\Develop_SmartApp\B7_DaTang\GUI\bin\Debug\DTO.dll
+D:\IDE CODE\VS\Develop_SmartApp\B7_DaTang\GUI\bin\Debug\DAL.dll
+D:\IDE CODE\VS\Develop_SmartApp\B7_DaTang\GUI\bin\Debug\BLL.pdb
+D:\IDE CODE\VS\Develop_SmartApp\B7_DaTang\GUI\bin\Debug\DTO.pdb
+D:\IDE CODE\VS\Develop_SmartApp\B7_DaTang\GUI\bin\Debug\DTO.dll.config
+D:\IDE CODE\VS\Develop_SmartApp\B7_DaTang\GUI\bin\Debug\DAL.pdb
+D:\IDE CODE\VS\Develop_SmartApp\B7_DaTang\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\IDE CODE\VS\Develop_SmartApp\B7_DaTang\GUI\obj\Debug\GUI.frmDiem.resources
+D:\IDE CODE\VS\Develop_SmartApp\B7_DaTang\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\IDE CODE\VS\Develop_SmartApp\B7_DaTang\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\IDE CODE\VS\Develop_SmartApp\B7_DaTang\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\B7_DaTang\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\IDE CODE\VS\Develop_SmartApp\B7_DaTang\GUI\obj\Debug\GUI.exe
+D:\IDE CODE\VS\Develop_SmartApp\B7_DaTang\GUI\obj\Debug\GUI.pdb

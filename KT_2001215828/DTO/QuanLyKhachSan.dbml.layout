@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QuanLyKhachSan">
+  <DataContextMoniker Name="/QuanLyKhachSanDataContext" />
+  <nestedChildShapes>
+    <classShape Id="4efcba25-249a-4247-8b7d-f398873e4930" absoluteBounds="0.75, 4.125, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/QuanLyKhachSanDataContext/KhachHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7db60923-2aee-4c16-8e80-cd66928d1f83" absoluteBounds="0.765, 4.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="24136725-76b6-4c01-8ef7-486e50e03cd6" absoluteBounds="0.75, 1.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/QuanLyKhachSanDataContext/Phong" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f014b548-0225-4eeb-b708-59530f58a314" absoluteBounds="0.765, 1.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3a13983f-b968-4196-9911-b4b503ec08a9" absoluteBounds="3.5, 0.875, 2, 1.9631982421875">
+      <DataClassMoniker Name="/QuanLyKhachSanDataContext/NhanPhong" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e14b8572-5221-4c6e-a209-c6a5d00e8731" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 4.91429768880208); (4.5 : 4.91429768880208); (4.5 : 2.8381982421875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyKhachSanDataContext/KhachHang/KhachHang_NhanPhong" />
+      <nodes>
+        <classShapeMoniker Id="4efcba25-249a-4247-8b7d-f398873e4930" />
+        <classShapeMoniker Id="3a13983f-b968-4196-9911-b4b503ec08a9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 1.94314697265625); (3.5 : 1.94314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyKhachSanDataContext/Phong/Phong_NhanPhong" />
+      <nodes>
+        <classShapeMoniker Id="24136725-76b6-4c01-8ef7-486e50e03cd6" />
+        <classShapeMoniker Id="3a13983f-b968-4196-9911-b4b503ec08a9" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

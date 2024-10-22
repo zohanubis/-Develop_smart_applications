@@ -1,0 +1,7 @@
+D:\IDE CODE\VS\Develop_SmartApp\KT_2001215828\DTO\bin\Debug\DTO.dll
+D:\IDE CODE\VS\Develop_SmartApp\KT_2001215828\DTO\bin\Debug\DTO.pdb
+D:\IDE CODE\VS\Develop_SmartApp\KT_2001215828\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\IDE CODE\VS\Develop_SmartApp\KT_2001215828\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\KT_2001215828\DTO\obj\Debug\DTO.dll
+D:\IDE CODE\VS\Develop_SmartApp\KT_2001215828\DTO\obj\Debug\DTO.pdb
+D:\IDE CODE\VS\Develop_SmartApp\KT_2001215828\DTO\bin\Debug\DTO.dll.config

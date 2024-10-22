@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_2001215828\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11FCDE65-1711-467A-A759-A7E885977F08}|GUI\\GUI.csproj|d:\\ide code\\vs\\develop_smartapp\\kt_2001215828\\gui\\frmquanlykhachsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11FCDE65-1711-467A-A759-A7E885977F08}|GUI\\GUI.csproj|solutionrelative:gui\\frmquanlykhachsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FCDE65-1711-467A-A759-A7E885977F08}|GUI\\GUI.csproj|d:\\ide code\\vs\\develop_smartapp\\kt_2001215828\\gui\\frmquanlykhachsan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FCDE65-1711-467A-A759-A7E885977F08}|GUI\\GUI.csproj|solutionrelative:gui\\frmquanlykhachsan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FCDE65-1711-467A-A759-A7E885977F08}|GUI\\GUI.csproj|d:\\ide code\\vs\\develop_smartapp\\kt_2001215828\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FCDE65-1711-467A-A759-A7E885977F08}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FCDE65-1711-467A-A759-A7E885977F08}|GUI\\GUI.csproj|d:\\ide code\\vs\\develop_smartapp\\kt_2001215828\\gui\\frmquanlykhachsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FCDE65-1711-467A-A759-A7E885977F08}|GUI\\GUI.csproj|solutionrelative:gui\\frmquanlykhachsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E29CF5-63E9-4858-A3DE-8B3A6D9F9173}|DAL\\DAL.csproj|d:\\ide code\\vs\\develop_smartapp\\kt_2001215828\\dal\\khachhangdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E29CF5-63E9-4858-A3DE-8B3A6D9F9173}|DAL\\DAL.csproj|solutionrelative:dal\\khachhangdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E29CF5-63E9-4858-A3DE-8B3A6D9F9173}|DAL\\DAL.csproj|d:\\ide code\\vs\\develop_smartapp\\kt_2001215828\\dal\\nhanphongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E29CF5-63E9-4858-A3DE-8B3A6D9F9173}|DAL\\DAL.csproj|solutionrelative:dal\\nhanphongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BF0C9C-0748-462E-93C5-AED14171838E}|BLL\\BLL.csproj|d:\\ide code\\vs\\develop_smartapp\\kt_2001215828\\bll\\khachhangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BF0C9C-0748-462E-93C5-AED14171838E}|BLL\\BLL.csproj|solutionrelative:bll\\khachhangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BF0C9C-0748-462E-93C5-AED14171838E}|BLL\\BLL.csproj|d:\\ide code\\vs\\develop_smartapp\\kt_2001215828\\bll\\phongbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BF0C9C-0748-462E-93C5-AED14171838E}|BLL\\BLL.csproj|solutionrelative:bll\\phongbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BF0C9C-0748-462E-93C5-AED14171838E}|BLL\\BLL.csproj|d:\\ide code\\vs\\develop_smartapp\\kt_2001215828\\bll\\nhanphongbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BF0C9C-0748-462E-93C5-AED14171838E}|BLL\\BLL.csproj|solutionrelative:bll\\nhanphongbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E29CF5-63E9-4858-A3DE-8B3A6D9F9173}|DAL\\DAL.csproj|d:\\ide code\\vs\\develop_smartapp\\kt_2001215828\\dal\\phongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E29CF5-63E9-4858-A3DE-8B3A6D9F9173}|DAL\\DAL.csproj|solutionrelative:dal\\phongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B904F69-BF7C-448E-A296-81839A200135}|DTO\\DTO.csproj|d:\\ide code\\vs\\develop_smartapp\\kt_2001215828\\dto\\quanlykhachsan.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{5B904F69-BF7C-448E-A296-81839A200135}|DTO\\DTO.csproj|solutionrelative:dto\\quanlykhachsan.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmQuanLyKhachSan.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_2001215828\\GUI\\frmQuanLyKhachSan.cs",
+              "RelativeDocumentMoniker": "GUI\\frmQuanLyKhachSan.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_2001215828\\GUI\\frmQuanLyKhachSan.cs",
+              "RelativeToolTip": "GUI\\frmQuanLyKhachSan.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAUwMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:02:43.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PhongBLL.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_2001215828\\BLL\\PhongBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\PhongBLL.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_2001215828\\BLL\\PhongBLL.cs",
+              "RelativeToolTip": "BLL\\PhongBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:53:18.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhanPhongDAL.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_2001215828\\DAL\\NhanPhongDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\NhanPhongDAL.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_2001215828\\DAL\\NhanPhongDAL.cs",
+              "RelativeToolTip": "DAL\\NhanPhongDAL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:52:35.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KhachHangBLL.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_2001215828\\BLL\\KhachHangBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\KhachHangBLL.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_2001215828\\BLL\\KhachHangBLL.cs",
+              "RelativeToolTip": "BLL\\KhachHangBLL.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:38:34.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KhachHangDAl.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_2001215828\\DAL\\KhachHangDAl.cs",
+              "RelativeDocumentMoniker": "DAL\\KhachHangDAl.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_2001215828\\DAL\\KhachHangDAl.cs",
+              "RelativeToolTip": "DAL\\KhachHangDAl.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:38:24.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmQuanLyKhachSan.cs [Design]",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_2001215828\\GUI\\frmQuanLyKhachSan.cs",
+              "RelativeDocumentMoniker": "GUI\\frmQuanLyKhachSan.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_2001215828\\GUI\\frmQuanLyKhachSan.cs [Design]",
+              "RelativeToolTip": "GUI\\frmQuanLyKhachSan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:37:20.914Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmQuanLyKhachSan.Designer.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_2001215828\\GUI\\frmQuanLyKhachSan.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\frmQuanLyKhachSan.Designer.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_2001215828\\GUI\\frmQuanLyKhachSan.Designer.cs",
+              "RelativeToolTip": "GUI\\frmQuanLyKhachSan.Designer.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAUwN8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:37:23.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_2001215828\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "GUI\\Program.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_2001215828\\GUI\\Program.cs",
+              "RelativeToolTip": "GUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:04:35.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NhanPhongBLL.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_2001215828\\BLL\\NhanPhongBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\NhanPhongBLL.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_2001215828\\BLL\\NhanPhongBLL.cs",
+              "RelativeToolTip": "BLL\\NhanPhongBLL.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:53:27.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PhongDAL.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_2001215828\\DAL\\PhongDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\PhongDAL.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_2001215828\\DAL\\PhongDAL.cs",
+              "RelativeToolTip": "DAL\\PhongDAL.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAUwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:52:15.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuanLyKhachSan.dbml",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_2001215828\\DTO\\QuanLyKhachSan.dbml",
+              "RelativeDocumentMoniker": "DTO\\QuanLyKhachSan.dbml",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\KT_2001215828\\DTO\\QuanLyKhachSan.dbml",
+              "RelativeToolTip": "DTO\\QuanLyKhachSan.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-10-22T04:50:22.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
