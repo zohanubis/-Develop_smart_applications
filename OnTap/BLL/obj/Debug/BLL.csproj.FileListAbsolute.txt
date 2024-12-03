@@ -1,0 +1,12 @@
+D:\IDE CODE\VS\Develop_SmartApp\OnTap\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\IDE CODE\VS\Develop_SmartApp\OnTap\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\OnTap\BLL\bin\Debug\BLL.dll
+D:\IDE CODE\VS\Develop_SmartApp\OnTap\BLL\bin\Debug\BLL.pdb
+D:\IDE CODE\VS\Develop_SmartApp\OnTap\BLL\bin\Debug\DAL.dll
+D:\IDE CODE\VS\Develop_SmartApp\OnTap\BLL\bin\Debug\DTO.dll
+D:\IDE CODE\VS\Develop_SmartApp\OnTap\BLL\bin\Debug\DAL.pdb
+D:\IDE CODE\VS\Develop_SmartApp\OnTap\BLL\bin\Debug\DTO.pdb
+D:\IDE CODE\VS\Develop_SmartApp\OnTap\BLL\bin\Debug\DTO.dll.config
+D:\IDE CODE\VS\Develop_SmartApp\OnTap\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\IDE CODE\VS\Develop_SmartApp\OnTap\BLL\obj\Debug\BLL.dll
+D:\IDE CODE\VS\Develop_SmartApp\OnTap\BLL\obj\Debug\BLL.pdb

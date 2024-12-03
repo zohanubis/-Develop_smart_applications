@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QL_KHACHHANG">
+  <DataContextMoniker Name="/QL_KHACHHANGDataContext" />
+  <nestedChildShapes>
+    <classShape Id="59863cd3-9ccc-4649-9dc1-73e831895ed3" absoluteBounds="4.25, 0.875, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/QL_KHACHHANGDataContext/Train_Data_" />
+      <nestedChildShapes>
+        <elementListCompartment Id="abc36d31-c86d-4b5f-82b7-e6d112493932" absoluteBounds="4.265, 1.335, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

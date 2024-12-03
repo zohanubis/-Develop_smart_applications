@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QL_KHACHHANG" Class="QL_KHACHHANGDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-EKR82M7;Initial Catalog=QL_KHACHHANG;Integrated Security=True;Trust Server Certificate=True" SettingsObjectName="DTO.Properties.Settings" SettingsPropertyName="QL_KHACHHANGConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Train_Data$" Member="Train_Data_s">
+    <Type Name="Train_Data_">
+      <Column Name="ID" Type="System.Double" DbType="Float NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Gender" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Ever_Married" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Age" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Graduated" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Profession" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Work_Experience" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Spending_Score" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Family_Size" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Var_1" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Segmentation" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

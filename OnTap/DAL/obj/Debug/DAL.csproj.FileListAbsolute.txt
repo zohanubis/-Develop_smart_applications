@@ -1,0 +1,10 @@
+D:\IDE CODE\VS\Develop_SmartApp\OnTap\DAL\bin\Debug\DAL.dll
+D:\IDE CODE\VS\Develop_SmartApp\OnTap\DAL\bin\Debug\DAL.pdb
+D:\IDE CODE\VS\Develop_SmartApp\OnTap\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\IDE CODE\VS\Develop_SmartApp\OnTap\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\IDE CODE\VS\Develop_SmartApp\OnTap\DAL\obj\Debug\DAL.dll
+D:\IDE CODE\VS\Develop_SmartApp\OnTap\DAL\obj\Debug\DAL.pdb
+D:\IDE CODE\VS\Develop_SmartApp\OnTap\DAL\bin\Debug\DTO.dll
+D:\IDE CODE\VS\Develop_SmartApp\OnTap\DAL\bin\Debug\DTO.pdb
+D:\IDE CODE\VS\Develop_SmartApp\OnTap\DAL\bin\Debug\DTO.dll.config
+D:\IDE CODE\VS\Develop_SmartApp\OnTap\DAL\obj\Debug\DAL.csproj.Up2Date

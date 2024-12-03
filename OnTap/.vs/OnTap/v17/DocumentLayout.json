@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IDE CODE\\VS\\Develop_SmartApp\\OnTap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA2F3D8-74BD-4E14-AEAD-B6A1C32147D7}|MLLibrary\\MLLibrary.csproj|d:\\ide code\\vs\\develop_smartapp\\ontap\\mllibrary\\c45classifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA2F3D8-74BD-4E14-AEAD-B6A1C32147D7}|MLLibrary\\MLLibrary.csproj|solutionrelative:mllibrary\\c45classifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BAEF8A-DBA1-4432-AA0E-FA2F60AFADE7}|GUI\\GUI.csproj|d:\\ide code\\vs\\develop_smartapp\\ontap\\gui\\frmcustomermanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BAEF8A-DBA1-4432-AA0E-FA2F60AFADE7}|GUI\\GUI.csproj|solutionrelative:gui\\frmcustomermanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BAEF8A-DBA1-4432-AA0E-FA2F60AFADE7}|GUI\\GUI.csproj|d:\\ide code\\vs\\develop_smartapp\\ontap\\gui\\frmcustomermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BAEF8A-DBA1-4432-AA0E-FA2F60AFADE7}|GUI\\GUI.csproj|solutionrelative:gui\\frmcustomermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA2F3D8-74BD-4E14-AEAD-B6A1C32147D7}|MLLibrary\\MLLibrary.csproj|d:\\ide code\\vs\\develop_smartapp\\ontap\\mllibrary\\kmeansclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA2F3D8-74BD-4E14-AEAD-B6A1C32147D7}|MLLibrary\\MLLibrary.csproj|solutionrelative:mllibrary\\kmeansclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA2F3D8-74BD-4E14-AEAD-B6A1C32147D7}|MLLibrary\\MLLibrary.csproj|d:\\ide code\\vs\\develop_smartapp\\ontap\\mllibrary\\id3classifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA2F3D8-74BD-4E14-AEAD-B6A1C32147D7}|MLLibrary\\MLLibrary.csproj|solutionrelative:mllibrary\\id3classifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BAEF8A-DBA1-4432-AA0E-FA2F60AFADE7}|GUI\\GUI.csproj|d:\\ide code\\vs\\develop_smartapp\\ontap\\gui\\frmcustomermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80BAEF8A-DBA1-4432-AA0E-FA2F60AFADE7}|GUI\\GUI.csproj|solutionrelative:gui\\frmcustomermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5076D5-B1E8-488E-8BD3-E338315F2283}|DAL\\DAL.csproj|d:\\ide code\\vs\\develop_smartapp\\ontap\\dal\\customerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5076D5-B1E8-488E-8BD3-E338315F2283}|DAL\\DAL.csproj|solutionrelative:dal\\customerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9C1D4B-CE24-473A-93D7-C832B0722CA2}|BLL\\BLL.csproj|d:\\ide code\\vs\\develop_smartapp\\ontap\\bll\\customerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9C1D4B-CE24-473A-93D7-C832B0722CA2}|BLL\\BLL.csproj|solutionrelative:bll\\customerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579ED88B-27BB-42BA-8065-C19B0B7EEAD6}|DTO\\DTO.csproj|d:\\ide code\\vs\\develop_smartapp\\ontap\\dto\\bank.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{579ED88B-27BB-42BA-8065-C19B0B7EEAD6}|DTO\\DTO.csproj|solutionrelative:dto\\bank.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "C45Classifier.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\OnTap\\MLLibrary\\C45Classifier.cs",
+              "RelativeDocumentMoniker": "MLLibrary\\C45Classifier.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\OnTap\\MLLibrary\\C45Classifier.cs",
+              "RelativeToolTip": "MLLibrary\\C45Classifier.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:59:04.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ID3Classifier.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\OnTap\\MLLibrary\\ID3Classifier.cs",
+              "RelativeDocumentMoniker": "MLLibrary\\ID3Classifier.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\OnTap\\MLLibrary\\ID3Classifier.cs",
+              "RelativeToolTip": "MLLibrary\\ID3Classifier.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:57:53.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KMeansClassifier.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\OnTap\\MLLibrary\\KMeansClassifier.cs",
+              "RelativeDocumentMoniker": "MLLibrary\\KMeansClassifier.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\OnTap\\MLLibrary\\KMeansClassifier.cs",
+              "RelativeToolTip": "MLLibrary\\KMeansClassifier.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:57:30.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCustomerManagement.Designer.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\OnTap\\GUI\\FrmCustomerManagement.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmCustomerManagement.Designer.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\OnTap\\GUI\\FrmCustomerManagement.Designer.cs",
+              "RelativeToolTip": "GUI\\FrmCustomerManagement.Designer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAMwCcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:48:00.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmCustomerManagement.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\OnTap\\GUI\\FrmCustomerManagement.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmCustomerManagement.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\OnTap\\GUI\\FrmCustomerManagement.cs",
+              "RelativeToolTip": "GUI\\FrmCustomerManagement.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:47:45.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmCustomerManagement.cs [Design]",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\OnTap\\GUI\\FrmCustomerManagement.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmCustomerManagement.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\OnTap\\GUI\\FrmCustomerManagement.cs [Design]",
+              "RelativeToolTip": "GUI\\FrmCustomerManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:46:14.885Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerDAL.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\OnTap\\DAL\\CustomerDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\CustomerDAL.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\OnTap\\DAL\\CustomerDAL.cs",
+              "RelativeToolTip": "DAL\\CustomerDAL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:47:15.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerBLL.cs",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\OnTap\\BLL\\CustomerBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\CustomerBLL.cs",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\OnTap\\BLL\\CustomerBLL.cs",
+              "RelativeToolTip": "BLL\\CustomerBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAEwAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:43:40.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bank.dbml",
+              "DocumentMoniker": "D:\\IDE CODE\\VS\\Develop_SmartApp\\OnTap\\DTO\\Bank.dbml",
+              "RelativeDocumentMoniker": "DTO\\Bank.dbml",
+              "ToolTip": "D:\\IDE CODE\\VS\\Develop_SmartApp\\OnTap\\DTO\\Bank.dbml",
+              "RelativeToolTip": "DTO\\Bank.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-11-26T07:40:21.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
